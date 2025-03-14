@@ -1,0 +1,1001 @@
+MatchID,TournamentID,TeamA,TeamB,MatchDate,WinningTeam,MatchDuration,TotalKills
+1,6,Tasen United,Team Muwijin,2025-02-19,Team Muwijin,3273,26
+2,42,Desapiq FC,Notof Cubuteyi,2025-02-12,Desapiq FC,2453,30
+3,41,ZafazXiha,Yogiqar Esports,2024-03-28,Yogiqar Esports,1619,22
+4,19,Team Tefizora,Team Nasifihe,2024-10-03,Team Tefizora,3373,26
+5,33,WawiWaz,LiqNeg,2024-10-06,WawiWaz,3386,36
+6,20,FuwRuh,Xefiyu FC,2024-12-27,Xefiyu FC,1300,47
+7,38,Gixido Bukur,FeyeHojiw,2024-03-18,FeyeHojiw,1967,32
+8,20,Mizuca Wegobo,Sogoyaje Hukejof,2024-10-01,Mizuca Wegobo,2042,37
+9,17,Wafeqa United,KojCuq,2024-10-11,Wafeqa United,2174,13
+10,7,Puvorura United,DeciTod,2024-11-10,Puvorura United,2309,34
+11,16,Bolilawa Gaming,Cadim Esports,2024-04-05,Bolilawa Gaming,3154,30
+12,7,Paseca Gaming,Pitoyav Moyeviwo,2024-06-28,Paseca Gaming,1401,32
+13,19,ZafazXiha,Team Heraku,2024-07-25,Team Heraku,3244,21
+14,45,Daxojipe Jopoh,Suhuta Cehire,2024-09-14,Suhuta Cehire,3559,25
+15,15,Qofeb Yofil,LobTuf,2024-09-29,Qofeb Yofil,1615,32
+16,32,Votiqex Dilibiwe,Team Zatula,2024-09-22,Votiqex Dilibiwe,1834,19
+17,47,Jetodih Mifecobo,Team Qefik,2025-02-23,Team Qefik,2523,42
+18,19,Resajo Dejix,Rovili Yekom,2024-09-16,Resajo Dejix,1293,26
+19,41,Dayuha Xifepava,Zijuhi Hewupu,2025-03-07,Zijuhi Hewupu,1283,18
+20,44,Cohiluga Esports,Gigim Foroc,2024-05-08,Cohiluga Esports,1429,36
+21,2,Focozi Gejoheg,Hejiqoba Kuxilo,2024-11-03,Focozi Gejoheg,2101,29
+22,42,Fuqicar United,Team Huxobaq,2024-09-28,Team Huxobaq,2905,47
+23,20,VavQihej,RoyJome,2025-02-23,RoyJome,2292,30
+24,43,SadiLuwez,Team Kijul,2024-09-05,SadiLuwez,1812,14
+25,11,MayiLonun,FosZemu,2024-08-02,FosZemu,2673,32
+26,47,HemRuge,Yohakoje Esports,2024-10-11,HemRuge,1499,19
+27,46,Team Qakihuzi,Xeholi Winoxo,2024-03-22,Xeholi Winoxo,3339,22
+28,28,Team Wakimeni,DixusRadeg,2024-07-28,Team Wakimeni,2075,48
+29,25,Qorig Esports,Team Dilagag,2025-03-04,Qorig Esports,2101,37
+30,11,Buzoroxa Geducevu,Team Muwijin,2024-05-13,Buzoroxa Geducevu,2554,25
+31,31,Humoto Esports,Qunete Esports,2024-07-31,Humoto Esports,1391,12
+32,3,Gofep Zehar,Qoxipa Esports,2024-08-12,Qoxipa Esports,2690,23
+33,6,Jokiruf FC,Nemuray Tujebi,2025-01-15,Nemuray Tujebi,1371,11
+34,32,ZenuXowor,Tiresep FC,2024-08-02,Tiresep FC,2150,39
+35,26,GavSeg,Daxojipe Jopoh,2025-02-12,Daxojipe Jopoh,2615,28
+36,32,Wujuso Tusiwi,Team Yuzun,2024-11-20,Wujuso Tusiwi,1527,48
+37,48,Fadipow Sukipo,Xaruxupo United,2024-04-26,Fadipow Sukipo,3177,45
+38,19,Team Negoru,Wujuso Tusiwi,2024-12-22,Wujuso Tusiwi,2883,26
+39,3,Kizot Tokop,Cadim Esports,2024-05-31,Kizot Tokop,2434,32
+40,38,Team Mebexuv,Negoc Baxelito,2024-05-07,Negoc Baxelito,2440,10
+41,42,ToyiGum,Pohagenu Esports,2024-09-19,ToyiGum,1250,16
+42,33,Jetodih Mifecobo,Gigidoh FC,2024-06-02,Jetodih Mifecobo,2162,49
+43,2,Gefexey Jawuyi,Hevep Esports,2024-10-06,Gefexey Jawuyi,3056,11
+44,20,Cejudol Sacaken,Xaruxupo United,2024-12-17,Xaruxupo United,2438,26
+45,6,Team Zatula,NoheXavox,2024-03-14,NoheXavox,2240,33
+46,30,Duzegofa Gaming,Team Xebawuk,2024-11-26,Duzegofa Gaming,3222,34
+47,15,Team Dajitosu,XiwaNuxo,2024-08-28,XiwaNuxo,1601,47
+48,6,VuzohPed,MayiLonun,2024-06-28,MayiLonun,1773,48
+49,27,Team Xawakej,Team Zuvel,2024-10-06,Team Xawakej,1500,33
+50,10,Goyajel FC,Josiza Gaming,2024-11-29,Goyajel FC,1655,39
+51,24,Taqaten Esports,Yaculime Poricu,2025-01-15,Taqaten Esports,1616,47
+52,10,DosuPubu,Gigidoh FC,2024-10-28,Gigidoh FC,2548,41
+53,20,Qepepige Esports,FopLova,2024-03-22,FopLova,2268,45
+54,29,WemukGiv,FeyoFej,2024-11-12,FeyoFej,1246,14
+55,41,Luwihiy Gaming,ZuhDux,2024-09-10,Luwihiy Gaming,1863,49
+56,29,Fipufi Gaming,KoqMakoq,2024-09-05,Fipufi Gaming,1234,13
+57,4,Waredife FC,Rovili Yekom,2025-02-09,Waredife FC,2721,44
+58,6,Naruneq United,Team Cagis,2025-03-05,Team Cagis,2860,32
+59,11,Nejidike Esports,Team Huxobaq,2024-05-01,Team Huxobaq,2376,31
+60,25,Vujoxaga Esports,JoqiCuyot,2024-12-26,JoqiCuyot,2508,42
+61,13,Team Yivuyup,Team Qipiy,2025-02-01,Team Yivuyup,1719,27
+62,18,Yaculime Poricu,Micas Toned,2024-08-05,Yaculime Poricu,2792,42
+63,41,KarLew,Suseni Gaming,2024-10-07,Suseni Gaming,2347,36
+64,46,Kigaxepe Larip,Zijuhi Hewupu,2025-03-06,Kigaxepe Larip,2472,45
+65,50,Fadipow Sukipo,Bemuf Vibos,2024-11-02,Fadipow Sukipo,1671,50
+66,21,FeyeHojiw,Mefavur United,2024-05-30,Mefavur United,2193,40
+67,21,Team Siputas,Ducebu Esports,2024-04-16,Ducebu Esports,2665,28
+68,19,Wowenoy Havicuw,QelKulu,2025-03-08,Wowenoy Havicuw,1257,41
+69,7,Xohipi Gaming,BuwDax,2024-05-07,Xohipi Gaming,2353,30
+70,43,XifJokis,Yimakovi FC,2024-05-06,Yimakovi FC,1667,31
+71,27,Sahes FC,Team Qakihuzi,2024-12-10,Sahes FC,3430,29
+72,12,VeqDazid,YubSoc,2024-10-27,VeqDazid,1241,42
+73,9,Team Wukod,Xegotube Tivuki,2024-05-08,Team Wukod,1767,23
+74,8,Wuyeziy Gaming,Gabogo United,2024-07-20,Wuyeziy Gaming,2690,20
+75,36,Team Qirujaz,QajadKek,2024-10-15,Team Qirujaz,2379,12
+76,48,WiniNakij,Luxode United,2024-11-22,WiniNakij,2217,47
+77,47,Fajipo Vufeze,Gigim Foroc,2024-06-22,Gigim Foroc,3423,21
+78,37,QajadKek,Jajavayu FC,2024-11-03,Jajavayu FC,2999,32
+79,6,Hejiqoba Kuxilo,SevaKohi,2024-12-02,SevaKohi,1318,15
+80,9,Dayuha Xifepava,Team Talori,2025-01-12,Team Talori,1893,27
+81,11,Fehepuw United,Bejahiru Hoxov,2024-05-25,Bejahiru Hoxov,3097,34
+82,32,Team Qejoc,Wowenoy Havicuw,2024-06-04,Team Qejoc,1354,38
+83,26,Qerefuxe Gaming,XifJokis,2025-02-28,Qerefuxe Gaming,2572,43
+84,2,Zowesogo United,Ducebu Esports,2024-08-13,Ducebu Esports,2124,37
+85,20,Team Qedoli,XozePox,2024-07-29,Team Qedoli,2784,26
+86,13,MitSeb,WevZiji,2024-06-12,WevZiji,1234,33
+87,34,Daxojipe Jopoh,Team Qosorap,2024-12-20,Daxojipe Jopoh,3318,26
+88,43,Yiwafuw Gaming,Team Deqedoh,2025-01-29,Yiwafuw Gaming,2144,37
+89,12,Team Xizuvuc,Waviluv United,2025-02-21,Waviluv United,3102,38
+90,38,Taqaten Esports,MitSeb,2025-01-05,MitSeb,2077,33
+91,37,Team Woqenahi,Team Vegeza,2024-05-24,Team Vegeza,3077,29
+92,50,Team Zatula,Team Tasahesi,2024-11-25,Team Tasahesi,3305,42
+93,8,Tewur Lijesi,Paxaso Puzotoju,2024-05-28,Tewur Lijesi,1423,33
+94,10,Teveral Suwez,Resajo Dejix,2024-08-09,Teveral Suwez,2477,32
+95,15,Wujuso Tusiwi,WawiWaz,2024-08-10,Wujuso Tusiwi,2560,35
+96,37,Team Yudufib,FeyoFej,2024-03-23,Team Yudufib,2102,49
+97,8,Cohiluga Esports,Team Zuvel,2024-08-02,Cohiluga Esports,1445,27
+98,40,FeyeHojiw,Jokiruf FC,2024-08-27,FeyeHojiw,3073,44
+99,49,Zevozoza United,Coqof Fevejos,2024-09-23,Zevozoza United,2052,28
+100,34,Lutarato Yomiberi,Tojim Bokaqi,2025-02-24,Lutarato Yomiberi,2508,10
+101,42,Team Tecajofi,Paweqep Gaming,2024-06-11,Paweqep Gaming,3198,29
+102,31,Qofeb Yofil,ZuhDux,2024-04-22,Qofeb Yofil,1385,13
+103,44,VacQoho,Desapiq FC,2024-11-09,VacQoho,3183,39
+104,46,Team Hadobu,Team Xaqoviv,2024-10-17,Team Xaqoviv,2614,10
+105,22,Qojariju Gaming,Pitoyav Moyeviwo,2024-04-13,Qojariju Gaming,2451,34
+106,41,QirejZayo,Qopacu Esports,2024-07-27,Qopacu Esports,2757,11
+107,4,Team Vajidodu,Cejudol Sacaken,2024-10-22,Team Vajidodu,1296,26
+108,38,DosuPubu,Xubitiyo Segafomi,2024-11-26,Xubitiyo Segafomi,1507,42
+109,34,Covojag Jepuco,Team Wakimeni,2025-02-16,Covojag Jepuco,3312,12
+110,16,Team Wigure,QimeDeqi,2024-12-30,QimeDeqi,2663,19
+111,32,Nujamox Xoyet,Team Karufo,2024-09-09,Team Karufo,2929,48
+112,44,XanusDuv,WafurPom,2024-11-04,XanusDuv,2940,20
+113,35,KulLav,Focozi Gejoheg,2024-08-06,KulLav,3551,32
+114,27,LagiQiv,Pucugocu United,2024-04-26,LagiQiv,2742,47
+115,38,Zenoko United,Haxaqara Gaming,2024-06-17,Zenoko United,3331,17
+116,5,Team Pinofo,Xeholi Winoxo,2024-11-18,Xeholi Winoxo,3276,33
+117,14,VuzohPed,JeseMiceq,2025-02-10,JeseMiceq,1843,14
+118,26,Team Gowuz,MitSeb,2024-07-09,MitSeb,2562,11
+119,35,Team Wukot,Team Xujajum,2024-05-16,Team Xujajum,1577,50
+120,31,Nuxida United,Ranewe Taman,2024-12-07,Nuxida United,3017,38
+121,26,Votiqex Dilibiwe,Team Denij,2024-05-05,Team Denij,2988,27
+122,20,Xegotube Tivuki,Team Nuvomi,2024-07-29,Team Nuvomi,1917,39
+123,3,FopLova,Team Tasahesi,2024-06-01,FopLova,2795,44
+124,37,YubSoc,Team Qiwebegu,2024-09-08,Team Qiwebegu,2456,13
+125,18,Jetodih Mifecobo,Team Qavanari,2024-12-15,Jetodih Mifecobo,2930,39
+126,21,Gigim Foroc,Ducebu Esports,2024-10-09,Gigim Foroc,3187,40
+127,2,Dimanofe Laqotur,Silevose Bogipove,2024-11-06,Silevose Bogipove,2954,28
+128,4,Waveju Esports,Loqecuna Xifaz,2024-10-20,Waveju Esports,1634,45
+129,28,Vufivese Pezusopo,Team Xujajum,2024-09-14,Vufivese Pezusopo,2412,33
+130,27,Paseca Gaming,Micas Toned,2024-07-01,Micas Toned,2622,10
+131,49,Team Hetuwor,Jizume United,2024-10-07,Team Hetuwor,2101,44
+132,14,Team Moqubo,Luwihiy Gaming,2024-05-29,Luwihiy Gaming,3323,17
+133,28,Fewena Muluwayu,Goyajel FC,2024-04-12,Goyajel FC,1355,37
+134,13,Team Wigure,Ducebu Esports,2024-03-12,Ducebu Esports,1750,15
+135,5,Focozi Gejoheg,Zevon Gaming,2024-05-10,Focozi Gejoheg,1653,31
+136,10,Woyejice Gaming,Wufiqazo FC,2025-01-10,Woyejice Gaming,2459,13
+137,17,Team Wigure,Toneg Mizuxi,2024-07-25,Team Wigure,1221,18
+138,22,Wafeqa United,Zisiyu Yupurof,2024-11-01,Wafeqa United,2256,21
+139,20,RokezGocek,Jihisofu Mejihasi,2024-09-09,RokezGocek,2190,46
+140,29,Dimanofe Laqotur,Kayije Xolav,2024-11-18,Kayije Xolav,2604,34
+141,14,KacedZaqu,Team Xizuvuc,2024-07-20,Team Xizuvuc,3459,32
+142,28,RubovYive,Zapucaz Rigawi,2025-01-20,RubovYive,2178,23
+143,49,Yemesom Qajot,Pepoquzu Lulijuji,2024-03-18,Pepoquzu Lulijuji,1313,25
+144,34,VezaZipok,DixusRadeg,2025-01-08,DixusRadeg,1600,11
+145,26,Team Huxobaq,Yazir Esports,2025-03-04,Yazir Esports,1662,28
+146,42,Yitac United,Team Wobasi,2024-06-23,Team Wobasi,1672,12
+147,26,Team Degecut,Nekek United,2024-07-06,Nekek United,1240,15
+148,34,Doqekuk Wavuju,Sogoyaje Hukejof,2024-08-13,Sogoyaje Hukejof,1463,34
+149,26,LobTuf,Cadim Esports,2024-08-10,LobTuf,2115,43
+150,30,Demut United,Wokasa Vovuloc,2024-03-29,Demut United,3112,16
+151,6,Team Qosorap,Team Degecut,2024-07-13,Team Qosorap,1337,44
+152,11,XosegMukek,Team Qipiy,2024-04-25,XosegMukek,3224,50
+153,2,Yobidot Qovamuyi,ZuhDux,2024-04-16,Yobidot Qovamuyi,3499,14
+154,13,KacedZaqu,Gamuxum Esports,2024-12-24,KacedZaqu,2492,41
+155,12,Hujoq Puyid,Notof Cubuteyi,2024-10-11,Hujoq Puyid,2395,30
+156,36,Team Yipigut,VezaZipok,2024-04-17,Team Yipigut,3099,27
+157,23,FuwRuh,Pexam Wajoto,2025-02-23,FuwRuh,1961,48
+158,1,Fajipo Vufeze,Sehas FC,2024-08-08,Sehas FC,3135,49
+159,39,Wufiqazo FC,Bohecoqo United,2024-11-16,Wufiqazo FC,3368,20
+160,20,MitSeb,SevaKohi,2024-04-15,MitSeb,1202,35
+161,38,QunubQas,Dufewez Wokaf,2024-12-19,Dufewez Wokaf,3208,49
+162,28,Cadim Esports,Paweqep Gaming,2024-07-08,Cadim Esports,1388,35
+163,33,Team Bedizoku,Sayineju Borimoba,2024-12-06,Sayineju Borimoba,2316,30
+164,2,Team Qizodez,Xazuqewe Kufisu,2024-04-11,Team Qizodez,3083,29
+165,3,Marax Esports,Yifac Gaming,2024-07-15,Marax Esports,1587,32
+166,22,Zijuhi Hewupu,Team Jaruwi,2024-12-08,Zijuhi Hewupu,2948,19
+167,41,JeseMiceq,Team Riyufuza,2024-06-25,Team Riyufuza,3378,35
+168,41,Team Xebawuk,Team Qedoli,2024-06-22,Team Qedoli,3088,27
+169,6,Team Qakihuzi,FuwRuh,2024-06-21,FuwRuh,3401,12
+170,43,Jetodih Mifecobo,WapuXili,2024-03-24,Jetodih Mifecobo,1863,30
+171,7,QirejZayo,NawYer,2024-05-31,QirejZayo,2262,25
+172,2,XawVore,BageJuzob,2025-01-04,BageJuzob,3149,45
+173,18,Qepepige Esports,Yemesom Qajot,2024-08-13,Qepepige Esports,3071,24
+174,29,WemukGiv,Dufewez Wokaf,2024-11-25,Dufewez Wokaf,1473,33
+175,26,Team Xuvum,Yaculime Poricu,2024-07-23,Yaculime Poricu,3088,25
+176,10,Cikeceze Givaxoq,Nigadego Lemitur,2024-03-10,Cikeceze Givaxoq,2253,18
+177,42,Taqaten Esports,Jizerux Esports,2024-12-06,Jizerux Esports,3395,26
+178,11,Deduy Xageqam,Hemuxeb Lomem,2024-10-10,Hemuxeb Lomem,3426,12
+179,15,Gayikivi Wahuqa,Team Nuvomi,2024-04-18,Team Nuvomi,1648,48
+180,20,Jegevu FC,XeqeqKim,2024-03-24,Jegevu FC,1320,10
+181,25,MazojWimaj,Humoto Esports,2024-10-15,Humoto Esports,2474,41
+182,14,Xemiyona Watateya,Hareluxa Cejowax,2024-07-15,Xemiyona Watateya,3517,27
+183,9,Bibeqasu Gaming,LolaWaye,2025-02-05,LolaWaye,1506,15
+184,11,Team Mafuve,Refevay FC,2024-11-03,Team Mafuve,3438,30
+185,10,Foyat Gaming,Waveju Esports,2025-02-21,Foyat Gaming,1425,45
+186,13,Team Qedoli,Team Panux,2024-04-10,Team Qedoli,1331,16
+187,48,Gezato Solam,Higax Esports,2024-04-05,Higax Esports,2126,20
+188,29,Puhipizi Qedeqi,TutaJipil,2024-07-17,Puhipizi Qedeqi,3358,15
+189,48,Suhuta Cehire,Nilukeze Noran,2024-11-06,Suhuta Cehire,3222,22
+190,22,Team Hadobu,Focozi Gejoheg,2024-09-04,Focozi Gejoheg,2328,41
+191,10,Fipufi Gaming,Nigadego Lemitur,2024-08-21,Nigadego Lemitur,3088,24
+192,47,Team Lefusiw,XozePox,2024-07-30,XozePox,2284,17
+193,36,HetiwJafa,Kigaxepe Larip,2024-04-05,Kigaxepe Larip,1238,38
+194,47,Tixiruti Esports,XanusDuv,2024-03-18,XanusDuv,1787,13
+195,38,Bohecoqo United,QefDehu,2025-01-11,QefDehu,1527,49
+196,22,Covojag Jepuco,Team Denij,2024-07-27,Team Denij,1643,16
+197,23,Woyejice Gaming,Gezato Solam,2024-10-27,Woyejice Gaming,2763,11
+198,24,Team Moqubo,Team Degecut,2024-06-09,Team Degecut,2714,40
+199,7,Mefavur United,NacosKufug,2025-01-02,Mefavur United,1971,47
+200,13,Lizem Esports,Team Kuzucocu,2024-03-24,Lizem Esports,2730,11
+201,39,Team Mepahi,Team Vocadi,2024-11-01,Team Vocadi,2966,22
+202,28,Duliroqu Esports,Team Panux,2024-07-31,Team Panux,2686,18
+203,24,ZugiqCayag,Team Muwijin,2024-04-15,Team Muwijin,2317,44
+204,48,XiwaNuxo,Xadujo Bixekuj,2024-04-07,XiwaNuxo,2699,25
+205,36,FuhZasuf,Zijuhi Hewupu,2024-11-08,Zijuhi Hewupu,2260,33
+206,27,Taqaten Esports,Team Yudufib,2024-04-25,Taqaten Esports,3312,41
+207,39,Team Kojaduce,Team Huxobaq,2024-05-20,Team Kojaduce,2437,17
+208,1,Tixiruti Esports,Jibiz Gaming,2024-06-01,Tixiruti Esports,2351,40
+209,42,Nuxida United,Qerefuxe Gaming,2025-03-04,Nuxida United,1276,39
+210,12,XeqeqKim,Team Qejoc,2025-03-07,XeqeqKim,2416,15
+211,20,Biyineb Gaming,DameKoz,2025-01-20,Biyineb Gaming,3130,33
+212,11,SevaKohi,Zuvusuj Esports,2024-04-24,SevaKohi,1441,10
+213,17,Fewena Muluwayu,Team Gofoqute,2024-03-10,Fewena Muluwayu,2465,33
+214,24,NebawFum,Team Pinofo,2024-05-06,Team Pinofo,2635,45
+215,27,Desapiq FC,Jibiz Gaming,2025-02-25,Jibiz Gaming,2375,45
+216,42,Team Yakopan,Team Qiwebegu,2024-07-15,Team Qiwebegu,1834,48
+217,39,Giwevi FC,Refevay FC,2024-06-09,Refevay FC,2090,47
+218,22,SadiLuwez,Resajo Dejix,2024-08-17,Resajo Dejix,2247,22
+219,48,VacQoho,PowuwBowo,2024-06-05,VacQoho,1353,47
+220,4,Team Wobasi,Gololuho Esports,2024-05-20,Team Wobasi,3012,23
+221,33,FuhZasuf,Team Vamizu,2025-02-10,Team Vamizu,2866,15
+222,10,Pepoquzu Lulijuji,Qopacu Esports,2024-08-23,Pepoquzu Lulijuji,2560,28
+223,19,Yelozen United,Focozi Gejoheg,2024-03-25,Yelozen United,2277,49
+224,44,SitiJoyi,YitVekoj,2025-02-13,YitVekoj,1328,23
+225,6,Waredife FC,Team Heraku,2024-09-22,Team Heraku,2960,36
+226,1,WagLaga,Nekom FC,2024-09-26,Nekom FC,1278,41
+227,7,Zezusoge Esports,QezYehe,2024-12-27,Zezusoge Esports,2272,42
+228,30,Team Hetuwor,Wehuma Esports,2024-09-07,Team Hetuwor,1565,11
+229,46,Waviluv United,Wetiref Vuxak,2024-11-02,Wetiref Vuxak,1819,34
+230,19,NoheXavox,YitVekoj,2024-12-31,NoheXavox,3475,11
+231,4,Team Vamizu,ZuhDux,2024-12-24,ZuhDux,2198,48
+232,41,Jetodih Mifecobo,Team Xizuz,2024-05-16,Jetodih Mifecobo,2636,47
+233,28,Team Xewuxa,Yejifeg Pufojisi,2024-12-27,Yejifeg Pufojisi,1873,32
+234,38,Paweqep Gaming,Gololuho Esports,2024-08-18,Paweqep Gaming,3566,37
+235,38,Higax Esports,Team Gowuz,2024-04-30,Team Gowuz,1225,31
+236,20,Jibiz Gaming,ToyiGum,2025-02-09,Jibiz Gaming,3467,34
+237,16,Silevose Bogipove,Demut United,2024-08-30,Silevose Bogipove,2593,20
+238,44,Team Biqad,Team Wukot,2024-12-19,Team Biqad,3085,44
+239,20,Jizerux Esports,Jajavayu FC,2024-08-22,Jizerux Esports,1578,21
+240,11,Sehas FC,Yiwafuw Gaming,2024-12-04,Sehas FC,2670,43
+241,25,Team Moqubo,HuruLaho,2024-05-01,HuruLaho,2849,42
+242,4,Cuyex Yuyaj,Team Fofamo,2024-04-21,Cuyex Yuyaj,2409,44
+243,30,Team Pusohi,KacedZaqu,2024-07-16,Team Pusohi,1516,45
+244,24,Josiza Gaming,Yohakoje Esports,2024-05-18,Yohakoje Esports,3145,10
+245,8,Humoto Esports,Xazuqewe Kufisu,2024-07-17,Xazuqewe Kufisu,2027,18
+246,48,Pepoquzu Lulijuji,Team Dilagag,2024-08-27,Team Dilagag,1384,46
+247,9,Tasen United,WafurPom,2025-01-07,WafurPom,2255,49
+248,23,KacedZaqu,Team Cagis,2024-04-04,KacedZaqu,2090,24
+249,16,Team Vamizu,Team Migosu,2024-12-21,Team Vamizu,2630,40
+250,38,Team Cotuwiha,VuzohPed,2024-09-03,VuzohPed,2403,32
+251,48,Xegotube Tivuki,Vujoxaga Esports,2024-05-18,Vujoxaga Esports,3225,46
+252,6,Deduy Xageqam,Team Vamizu,2024-12-26,Deduy Xageqam,3427,20
+253,31,Yogiqar Esports,Wunur Hoqomi,2024-07-24,Yogiqar Esports,2473,45
+254,36,Kovotujo Dobewa,NacosKufug,2024-03-15,Kovotujo Dobewa,3283,47
+255,27,Yogiqar Esports,Zuvusuj Esports,2025-01-08,Zuvusuj Esports,3221,31
+256,7,Tobiv Esports,Team Cowamohu,2024-04-20,Tobiv Esports,2352,12
+257,19,DixusRadeg,Wodifuw Gipiyoro,2025-02-09,Wodifuw Gipiyoro,2435,13
+258,14,Qadibali Gebemil,Xemiyona Watateya,2025-02-02,Qadibali Gebemil,1969,25
+259,30,QosoVewov,Team Xuvum,2024-06-24,QosoVewov,1663,41
+260,33,JiwoNawud,Wowenoy Havicuw,2024-05-17,JiwoNawud,2341,12
+261,49,FosZemu,KofarBayu,2024-11-02,KofarBayu,3524,40
+262,35,DixusRadeg,Biyineb Gaming,2024-12-15,Biyineb Gaming,1959,33
+263,32,Gigidoh FC,Team Qedoli,2025-03-04,Gigidoh FC,2753,15
+264,31,Team Xutodoze,Vayana Katoqe,2024-11-14,Vayana Katoqe,3406,46
+265,7,Joqimihe FC,JeseMiceq,2024-09-03,JeseMiceq,3022,26
+266,4,Dudixu Xopomilu,Team Jihikita,2024-06-23,Team Jihikita,3525,46
+267,42,Wehuma Esports,Covojag Jepuco,2024-04-13,Wehuma Esports,2562,49
+268,46,Zevon Gaming,BojupJilu,2024-09-19,Zevon Gaming,1578,44
+269,25,Team Xizuz,Suhuta Cehire,2024-06-08,Suhuta Cehire,3514,11
+270,44,Team Vegeza,Zevozoza United,2025-01-21,Zevozoza United,3191,22
+271,25,QimeDeqi,RikiYec,2025-01-25,QimeDeqi,2910,34
+272,34,Team Xizuvuc,LilozZehi,2024-05-14,Team Xizuvuc,2954,39
+273,15,Taqaten Esports,Kovotujo Dobewa,2024-07-20,Kovotujo Dobewa,2672,41
+274,11,ToyiGum,Xazuqewe Kufisu,2024-06-28,Xazuqewe Kufisu,2623,44
+275,8,Gololuho Esports,SiyowLoqon,2024-09-28,Gololuho Esports,2970,11
+276,21,Dimanofe Laqotur,Yazir Esports,2024-07-18,Yazir Esports,3281,29
+277,9,KojCuq,Team Wohus,2024-07-27,KojCuq,1912,15
+278,21,Taqaten Esports,Team Xujajum,2024-05-25,Team Xujajum,3587,39
+279,34,Lixeka United,KoqMakoq,2024-05-22,Lixeka United,3582,19
+280,36,Desapiq FC,KulLav,2024-10-20,KulLav,2164,19
+281,35,Romasivi Gaming,Zelozej Esports,2024-08-09,Zelozej Esports,2398,49
+282,3,FeyeHojiw,ZuhDux,2024-10-06,FeyeHojiw,2333,46
+283,46,RikiYec,GifebLafa,2024-04-10,RikiYec,3373,44
+284,38,GasLiw,Bifux Qigade,2024-06-10,GasLiw,1336,16
+285,30,Team Mebexuv,Team Zatula,2024-03-23,Team Zatula,1756,11
+286,38,Cayoju Kawuzew,WevZiji,2024-08-03,WevZiji,3297,39
+287,17,Team Gowuz,Cejudol Sacaken,2024-06-22,Cejudol Sacaken,2821,44
+288,39,QunubQas,Team Kegemasu,2024-06-25,QunubQas,3050,28
+289,24,Team Kanux,PuvuQasa,2024-11-04,PuvuQasa,2177,40
+290,45,Team Saliteg,Team Xixadib,2024-09-27,Team Xixadib,2158,34
+291,35,PewuKim,Bifux Qigade,2024-05-08,PewuKim,3556,14
+292,45,Team Zuvel,Team Vocadi,2024-11-28,Team Zuvel,2087,35
+293,32,Bifux Qigade,Team Qeyoloq,2025-02-15,Team Qeyoloq,2549,17
+294,47,Duzegofa Gaming,YitVekoj,2025-01-25,YitVekoj,1706,17
+295,44,Fewena Muluwayu,Team Rixerinu,2024-05-25,Fewena Muluwayu,1968,21
+296,9,Team Mapukupa,Daxojipe Jopoh,2025-02-13,Team Mapukupa,2383,26
+297,41,DameKoz,Dovutose Esports,2024-08-10,DameKoz,2565,45
+298,24,Xegotube Tivuki,FeyoFej,2024-10-03,FeyoFej,1373,23
+299,47,KoqMakoq,Team Gofoqute,2024-11-08,KoqMakoq,1682,40
+300,11,Nekek United,FuwRuh,2024-04-09,FuwRuh,2898,12
+301,40,Yitac United,WagLaga,2024-05-21,Yitac United,3311,27
+302,27,Jahacet Kawefes,Buyoxow Esports,2024-10-14,Jahacet Kawefes,1848,10
+303,46,Kigaxepe Larip,Muvodu Gaming,2024-09-08,Kigaxepe Larip,3544,41
+304,44,Team Riyufuza,TutaJipil,2024-05-27,Team Riyufuza,2570,14
+305,47,Team Qeyoloq,Wunur Hoqomi,2024-07-05,Team Qeyoloq,1950,32
+306,33,XizozFoso,Bufog FC,2024-06-23,XizozFoso,2885,20
+307,32,Team Xutodoze,Zoracig Esports,2025-01-02,Team Xutodoze,2394,49
+308,46,Team Migosu,Ruruzome Gaming,2024-03-19,Ruruzome Gaming,2917,32
+309,39,ToyiGum,TamefVag,2024-08-22,ToyiGum,2714,35
+310,12,NoheXavox,DugeZah,2024-04-25,NoheXavox,1218,29
+311,31,LilozZehi,Team Zuxihup,2024-05-11,LilozZehi,2843,50
+312,24,Pohagenu Esports,Team Zedamob,2024-09-22,Team Zedamob,1586,34
+313,48,Deduy Xageqam,Team Buyemu,2024-04-11,Team Buyemu,1357,16
+314,16,Xefiyu FC,Team Qejoc,2024-04-28,Xefiyu FC,3175,50
+315,32,Team Degecut,RanugRen,2024-10-17,RanugRen,2866,28
+316,44,Cohiluga Esports,RoyJome,2024-10-22,Cohiluga Esports,2634,49
+317,18,XukZadul,TamefVag,2025-02-11,XukZadul,2970,34
+318,10,Nemuray Tujebi,Hujoq Puyid,2024-06-22,Nemuray Tujebi,3014,13
+319,35,Team Degecut,Humos United,2025-03-01,Humos United,3490,43
+320,43,SevaKohi,Loqav Dadoqiti,2024-05-01,SevaKohi,1286,40
+321,46,Team Wobum,DuqeJuye,2024-08-27,DuqeJuye,3599,17
+322,23,Dudixu Xopomilu,KozeJayos,2024-09-29,Dudixu Xopomilu,1765,39
+323,26,BojupJilu,Bejahiru Hoxov,2024-09-09,Bejahiru Hoxov,2697,22
+324,11,Zevozoza United,Team Moqubo,2024-12-03,Team Moqubo,2004,38
+325,32,Maqocoy FC,Waviluv United,2024-05-29,Waviluv United,1876,17
+326,34,Nujamox Xoyet,Zuvusuj Esports,2025-02-03,Zuvusuj Esports,1439,17
+327,20,Wapul Jusurefe,Silevose Bogipove,2025-01-20,Wapul Jusurefe,1485,16
+328,30,Team Moqubo,Qofeb Yofil,2024-09-30,Team Moqubo,2639,13
+329,6,Rixebew Husetojo,Bemomo Bujeku,2024-06-07,Bemomo Bujeku,3060,28
+330,36,Team Woqenahi,Jubayuda Quheped,2025-03-08,Team Woqenahi,1751,32
+331,5,XefNaput,Wuyeziy Gaming,2024-09-26,Wuyeziy Gaming,3573,26
+332,10,Vevacom Lexifeje,Xohipi Gaming,2024-10-12,Xohipi Gaming,3145,31
+333,31,Fipufi Gaming,Daxojipe Jopoh,2024-05-05,Daxojipe Jopoh,2514,26
+334,30,Hibot Vumefuwi,WagLaga,2024-08-13,WagLaga,1315,31
+335,45,Bejahiru Hoxov,Kotey Peqopexi,2024-05-19,Kotey Peqopexi,1970,42
+336,36,Team Gihoc,Yohakoje Esports,2024-09-22,Team Gihoc,2552,38
+337,32,Lizem Esports,Kanehate Esports,2024-03-14,Lizem Esports,1780,23
+338,32,Jozafic Gayuj,Team Qedoli,2024-12-07,Team Qedoli,1256,14
+339,17,JiwoNawud,Sogoyaje Hukejof,2024-09-22,JiwoNawud,1563,30
+340,22,Tomes Gaming,Xemiyona Watateya,2024-09-29,Tomes Gaming,3443,31
+341,38,Qoxipa Esports,QimeDeqi,2024-05-16,Qoxipa Esports,1391,26
+342,5,LulLefe,Qoxuy Yinapo,2024-11-24,Qoxuy Yinapo,2318,50
+343,41,Fehepuw United,Yufum Hiyexe,2024-12-07,Fehepuw United,2601,11
+344,21,Nekom FC,Team Vajidodu,2024-10-07,Nekom FC,1819,32
+345,38,Cefof United,TamefVag,2024-10-20,Cefof United,1486,36
+346,20,BojupJilu,Pitoyav Moyeviwo,2024-10-19,BojupJilu,1599,23
+347,47,Yimakovi FC,Desapiq FC,2024-08-01,Desapiq FC,3227,27
+348,25,FeyeHojiw,Team Nuvomi,2024-04-25,Team Nuvomi,2211,21
+349,31,Waviluv United,KofarBayu,2024-03-24,KofarBayu,3524,41
+350,49,Yazir Esports,QosoVewov,2024-12-15,Yazir Esports,2478,30
+351,35,RoyJome,Team Hetuwor,2024-04-14,Team Hetuwor,1564,44
+352,20,Paweqep Gaming,WiyogPutar,2024-11-25,WiyogPutar,3334,20
+353,21,JeseMiceq,Team Nuvomi,2024-05-18,JeseMiceq,1216,46
+354,9,ZukuhPidon,Team Deqedoh,2024-03-11,Team Deqedoh,3185,12
+355,48,Nujamox Xoyet,Xarohah Yametu,2024-04-01,Xarohah Yametu,3235,44
+356,21,Team Wasad,Xoyaxa FC,2024-11-15,Xoyaxa FC,2094,23
+357,28,LulLefe,Badov Esports,2025-01-05,LulLefe,2149,15
+358,26,KoqMakoq,Locimuh Qiluhi,2024-08-09,KoqMakoq,2397,46
+359,30,Team Yivuyup,ZukuhPidon,2025-01-26,ZukuhPidon,2394,47
+360,42,Yelozen United,Rosayu Gomuxax,2024-10-01,Rosayu Gomuxax,1450,21
+361,47,Sirumum Yasopuxi,Miseyogi FC,2024-09-14,Miseyogi FC,2887,10
+362,22,Woyejice Gaming,GifebLafa,2024-11-12,Woyejice Gaming,1380,10
+363,3,FeyoFej,Bejahiru Hoxov,2024-03-11,FeyoFej,3469,24
+364,38,Team Xekopo,Team Cotuwiha,2024-11-07,Team Xekopo,3104,34
+365,37,Yisikeyi FC,WemukGiv,2024-11-22,Yisikeyi FC,1566,24
+366,19,Demut United,Huqucoh Tidogu,2024-03-25,Huqucoh Tidogu,1579,19
+367,21,QosoVewov,Team Qefik,2024-11-15,QosoVewov,1808,33
+368,1,Joqimihe FC,Team Cukejeme,2024-07-22,Team Cukejeme,2617,11
+369,15,HibeGic,Yisikeyi FC,2024-11-05,Yisikeyi FC,3389,36
+370,29,Qerefuxe Gaming,MopoJeti,2024-08-04,Qerefuxe Gaming,1531,39
+371,32,Bibeqasu Gaming,Team Jaruwi,2024-09-14,Team Jaruwi,1744,43
+372,41,Paseca Gaming,Bemuf Vibos,2025-02-10,Bemuf Vibos,1344,34
+373,25,XeqeqKim,RikiYec,2024-03-09,RikiYec,3183,37
+374,26,BuwDax,GifebLafa,2024-09-15,BuwDax,2755,36
+375,12,Team Qizodez,Yexide United,2024-09-05,Team Qizodez,3281,32
+376,33,Xoyaxa FC,Team Cotuwiha,2024-09-24,Team Cotuwiha,3387,39
+377,19,Paseca Gaming,Team Zuvel,2024-07-14,Paseca Gaming,1354,26
+378,13,Hareluxa Cejowax,ZenuXowor,2024-03-15,Hareluxa Cejowax,1572,44
+379,10,Fewena Muluwayu,Team Viwihuqu,2025-01-12,Fewena Muluwayu,1223,11
+380,34,Team Tecajofi,Team Delegi,2024-07-31,Team Delegi,3493,33
+381,45,QelKulu,Woyejice Gaming,2024-04-15,QelKulu,2523,50
+382,16,Jajavayu FC,TutaJipil,2024-05-11,Jajavayu FC,3539,19
+383,7,Team Vajidodu,Loqav Dadoqiti,2024-12-09,Loqav Dadoqiti,2477,44
+384,22,Yemesom Qajot,Yitac United,2024-03-18,Yemesom Qajot,2730,20
+385,1,GifebLafa,Nazamif Gaming,2024-05-25,GifebLafa,2500,13
+386,49,Miseyogi FC,Cohiluga Esports,2025-03-02,Cohiluga Esports,1851,13
+387,12,Reboloqu Tafeyaza,Xaruxupo United,2024-11-10,Reboloqu Tafeyaza,2767,43
+388,32,Suhuta Cehire,SijoVal,2025-01-18,SijoVal,2683,47
+389,44,Team Wobum,Wowenoy Havicuw,2024-08-26,Wowenoy Havicuw,1788,32
+390,34,Paseca Gaming,Jubayuda Quheped,2024-08-23,Paseca Gaming,1331,20
+391,14,Yisikeyi FC,Rosayu Gomuxax,2025-02-28,Yisikeyi FC,3273,34
+392,28,Fadipow Sukipo,Tojim Bokaqi,2024-08-17,Fadipow Sukipo,2317,35
+393,8,Cayoju Kawuzew,Team Zatula,2024-10-06,Cayoju Kawuzew,2526,40
+394,17,Tiwon United,Team Qipiy,2024-04-23,Tiwon United,1794,23
+395,5,Waviluv United,Team Tecajofi,2024-08-20,Waviluv United,2596,12
+396,23,Locimuh Qiluhi,Dudixu Xopomilu,2024-09-04,Locimuh Qiluhi,2482,24
+397,39,ZafazXiha,Zabigid Gaming,2025-03-07,Zabigid Gaming,3162,46
+398,1,Team Rixerinu,Fuqicar United,2025-02-23,Team Rixerinu,1394,33
+399,29,Tewur Lijesi,Nazamif Gaming,2024-06-28,Nazamif Gaming,2494,28
+400,50,Jokiruf FC,VezaZipok,2024-03-24,VezaZipok,2582,32
+401,36,Team Gaboq,Fajipo Vufeze,2024-07-23,Fajipo Vufeze,2783,41
+402,50,Team Sokuv,Giwevi FC,2025-02-03,Team Sokuv,2786,48
+403,25,Team Panux,BojupJilu,2025-01-16,Team Panux,3540,45
+404,47,Fadipow Sukipo,Cikeceze Givaxoq,2025-02-07,Cikeceze Givaxoq,2296,46
+405,19,Gololuho Esports,Kanehate Esports,2024-08-09,Gololuho Esports,2843,39
+406,40,Team Riyufuza,Rixebew Husetojo,2024-06-28,Team Riyufuza,3127,21
+407,37,Team Mijey,Bemuf Vibos,2024-06-01,Bemuf Vibos,1329,42
+408,11,Niqez Esports,Team Kanux,2024-03-11,Niqez Esports,2190,10
+409,16,Huqucoh Tidogu,ToyiGum,2024-05-20,Huqucoh Tidogu,2082,43
+410,20,Team Nezolu,TutaJipil,2024-11-09,TutaJipil,2544,43
+411,38,Miseyogi FC,Covojag Jepuco,2024-08-27,Covojag Jepuco,2810,33
+412,10,Qofeb Yofil,Suseni Gaming,2024-11-16,Qofeb Yofil,3177,11
+413,35,Team Mexubaj,Vojop Jabev,2025-02-23,Vojop Jabev,3062,30
+414,17,Paseca Gaming,Waredife FC,2024-03-12,Waredife FC,3278,28
+415,10,LiqNeg,Team Pusohi,2024-10-03,LiqNeg,3032,23
+416,28,Team Wigure,NawYer,2024-10-13,NawYer,1468,14
+417,20,Vayana Katoqe,Yapinu Fexot,2024-04-29,Yapinu Fexot,1364,22
+418,37,Zakava United,QimeDeqi,2024-07-28,QimeDeqi,2571,21
+419,4,Marax Esports,Waviluv United,2024-05-13,Waviluv United,2635,13
+420,47,VavQihej,XukZadul,2024-10-11,VavQihej,1780,24
+421,50,Team Jinud,Team Xaqoviv,2024-06-04,Team Jinud,2024,39
+422,30,Zuvusuj Esports,Yejifeg Pufojisi,2024-08-08,Yejifeg Pufojisi,2074,16
+423,1,QezYehe,Team Wobasi,2025-02-17,Team Wobasi,2368,19
+424,15,Cikeceze Givaxoq,DeciTod,2024-06-04,Cikeceze Givaxoq,1994,50
+425,50,Team Qemidod,Hevep Esports,2024-06-09,Team Qemidod,2417,23
+426,24,QosoVewov,Qanado Esports,2024-09-23,QosoVewov,3472,35
+427,49,Team Gihoc,Ruruzome Gaming,2024-10-19,Team Gihoc,3424,10
+428,34,Team Mepahi,Notof Cubuteyi,2025-02-02,Team Mepahi,2866,33
+429,18,FopLova,BageJuzob,2024-03-22,FopLova,2389,23
+430,21,Mefavur United,Yisikeyi FC,2024-08-21,Mefavur United,1893,49
+431,15,Duneqo Esports,JoqiCuyot,2024-07-18,JoqiCuyot,3298,11
+432,33,Kawuj Esports,Team Xujajum,2024-07-02,Team Xujajum,1880,22
+433,50,Duliroqu Esports,Vojop Jabev,2024-07-19,Vojop Jabev,1965,33
+434,18,Nazamif Gaming,Joqimihe FC,2024-12-31,Nazamif Gaming,2045,38
+435,13,Team Hetuwor,Cohiluga Esports,2025-02-06,Team Hetuwor,2664,32
+436,45,FeyeHojiw,Team Wukot,2024-11-26,FeyeHojiw,1370,23
+437,34,Team Sokuv,Huvuco United,2024-07-12,Team Sokuv,1661,50
+438,27,Team Wiqeb,TutaJipil,2024-06-30,Team Wiqeb,1637,33
+439,29,NediDor,Waveju Esports,2024-08-29,Waveju Esports,1847,46
+440,5,Resajo Dejix,Nemuray Tujebi,2024-12-01,Resajo Dejix,3046,50
+441,31,Paxaso Puzotoju,Sogoyaje Hukejof,2024-07-09,Paxaso Puzotoju,3500,47
+442,18,Dufewez Wokaf,Niqez Esports,2024-12-28,Niqez Esports,3448,23
+443,48,ZuhDux,Team Yetapowo,2024-06-18,Team Yetapowo,2929,10
+444,43,Jegevu FC,Romasivi Gaming,2024-12-31,Jegevu FC,2062,29
+445,15,Zoracig Esports,Xazuqewe Kufisu,2025-01-01,Xazuqewe Kufisu,3264,22
+446,27,Cuyex Yuyaj,Wafeqa United,2024-08-18,Wafeqa United,2549,44
+447,50,Gigim Foroc,Zevozoza United,2024-10-12,Gigim Foroc,2554,19
+448,1,DameKoz,Loqav Dadoqiti,2024-05-24,DameKoz,1261,47
+449,42,VavQihej,Team Mebexuv,2025-01-27,Team Mebexuv,1360,34
+450,6,Toneg Mizuxi,Team Xawakej,2025-02-06,Team Xawakej,3171,42
+451,43,Lutarato Yomiberi,Zisiyu Yupurof,2024-10-20,Zisiyu Yupurof,1975,22
+452,11,Ducebu Esports,KofarBayu,2024-07-09,Ducebu Esports,3098,12
+453,2,Giwevi FC,Team Tefecugo,2024-10-16,Team Tefecugo,2681,20
+454,22,Team Qedoli,Wokasa Vovuloc,2025-01-09,Wokasa Vovuloc,2064,40
+455,23,Hevep Esports,Team Qejoc,2024-05-02,Team Qejoc,2279,33
+456,36,Hemuxeb Lomem,Team Puzumap,2025-01-10,Hemuxeb Lomem,1819,37
+457,35,Coqof Fevejos,WiyogPutar,2024-11-16,Coqof Fevejos,2772,20
+458,37,Team Qakihuzi,Mizuca Wegobo,2024-12-26,Team Qakihuzi,3497,33
+459,33,Team Qosorap,Lison Yezeqin,2024-09-28,Lison Yezeqin,1744,31
+460,29,Gololuho Esports,Team Mebexuv,2024-09-03,Team Mebexuv,1759,11
+461,40,Team Qiwebegu,SevaKohi,2024-08-19,SevaKohi,2452,45
+462,40,Wowenoy Havicuw,WevZiji,2024-06-27,WevZiji,1322,22
+463,17,Team Rixerinu,Waveju Esports,2025-01-25,Team Rixerinu,2859,34
+464,15,WagLaga,NesinDuko,2024-04-23,NesinDuko,3388,12
+465,9,Nujamox Xoyet,Team Talori,2025-02-19,Nujamox Xoyet,2202,49
+466,29,Vujoxaga Esports,Zoracig Esports,2024-04-09,Vujoxaga Esports,2256,18
+467,21,Team Dajitosu,Sukud Gaming,2024-07-06,Sukud Gaming,2969,32
+468,42,Team Dajitosu,Tiresep FC,2024-12-25,Team Dajitosu,1783,28
+469,25,Zijuhi Hewupu,Qopacu Esports,2024-06-14,Qopacu Esports,3599,46
+470,50,Josiza Gaming,Teveral Suwez,2024-04-26,Josiza Gaming,1824,14
+471,44,Team Mijey,Hareluxa Cejowax,2025-02-18,Team Mijey,3575,48
+472,18,Zadivik Peheyo,Vevacom Lexifeje,2024-06-09,Zadivik Peheyo,1200,15
+473,43,Fajipo Vufeze,Team Karufo,2024-10-25,Fajipo Vufeze,2342,23
+474,10,HetiwJafa,Team Hadobu,2024-11-26,HetiwJafa,1426,12
+475,27,Mefavur United,Zabigid Gaming,2024-04-17,Mefavur United,1490,10
+476,49,Tubuq Cubebog,XefNaput,2024-09-25,Tubuq Cubebog,1809,28
+477,17,Team Gowuz,Rovili Yekom,2024-12-16,Rovili Yekom,2510,37
+478,47,Goyajel FC,BuwDax,2024-10-27,Goyajel FC,2519,38
+479,8,Team Muwijin,MitSeb,2024-06-13,MitSeb,1831,29
+480,19,Qunete Esports,Team Yivuyup,2024-05-22,Team Yivuyup,3402,33
+481,38,Team Tefecugo,Jibiz Gaming,2024-09-28,Team Tefecugo,2344,31
+482,38,Team Gihoc,DusNop,2024-05-01,DusNop,3227,34
+483,8,BuxuCifac,Tasen United,2024-11-23,BuxuCifac,3328,44
+484,47,DeciTod,Team Wukod,2024-04-30,DeciTod,3353,38
+485,46,Silevose Bogipove,Maraqece Vupuriq,2024-09-22,Silevose Bogipove,3468,46
+486,13,Zevozoza United,Yifac Gaming,2024-11-02,Zevozoza United,3481,38
+487,30,Yejifeg Pufojisi,Team Hetuwor,2024-07-10,Team Hetuwor,1467,22
+488,22,DoturQod,Fajipo Vufeze,2024-12-21,DoturQod,3500,50
+489,10,VacQoho,RajihSih,2025-01-29,RajihSih,3029,36
+490,39,Bufog FC,XukZadul,2024-05-14,Bufog FC,3478,44
+491,18,YubSoc,QimeDeqi,2024-09-19,YubSoc,2424,20
+492,30,Leguvus FC,FuhZasuf,2024-07-29,FuhZasuf,2511,18
+493,39,Team Pinofo,BuwDax,2024-08-24,BuwDax,2574,20
+494,37,ToyiGum,Team Xuvum,2024-12-17,Team Xuvum,3189,38
+495,42,Team Worefuco,Repiku Fodusuc,2024-05-14,Repiku Fodusuc,2417,28
+496,11,Duzegofa Gaming,Team Qipiy,2024-12-30,Duzegofa Gaming,3013,46
+497,28,Team Woqenahi,Wapul Jusurefe,2024-09-15,Wapul Jusurefe,1318,44
+498,17,FeyeHojiw,Zenoko United,2024-05-23,Zenoko United,1350,18
+499,2,Team Gowuz,Votiqex Dilibiwe,2024-03-31,Votiqex Dilibiwe,3479,29
+500,18,XosegMukek,Lizem Esports,2024-10-20,XosegMukek,2265,12
+501,33,Team Wohus,Nilukeze Noran,2024-03-17,Nilukeze Noran,2539,31
+502,12,Team Yetapowo,Team Xixadib,2024-06-09,Team Yetapowo,1859,22
+503,46,Jihisofu Mejihasi,Team Gowuz,2024-12-16,Jihisofu Mejihasi,1928,33
+504,16,Bohecoqo United,FosZemu,2024-09-28,Bohecoqo United,3215,16
+505,25,MayiLonun,Bifux Qigade,2025-02-13,MayiLonun,2364,49
+506,47,Team Pinofo,Xiqacu Gaming,2024-12-03,Xiqacu Gaming,1339,33
+507,37,XozePox,Zabigid Gaming,2024-04-03,XozePox,2948,49
+508,2,Taqaten Esports,DixusRadeg,2024-10-24,DixusRadeg,1436,47
+509,30,Team Mepahi,Badov Esports,2024-12-24,Badov Esports,2496,13
+510,17,Team Facom,Team Vajidodu,2024-04-08,Team Vajidodu,3134,41
+511,37,Team Bisane,Focozi Gejoheg,2024-11-23,Team Bisane,3480,12
+512,32,Wunur Hoqomi,MitSeb,2024-06-05,MitSeb,1694,25
+513,7,Qopacu Esports,Pepoquzu Lulijuji,2024-04-17,Qopacu Esports,2766,12
+514,47,XifJokis,Qerefuxe Gaming,2024-06-01,XifJokis,3096,20
+515,32,Team Negoru,LulLefe,2024-11-30,Team Negoru,2076,27
+516,28,Wunur Hoqomi,Notof Cubuteyi,2024-10-26,Wunur Hoqomi,2914,46
+517,21,Team Qakihuzi,Tiwon United,2024-09-18,Tiwon United,2179,30
+518,18,Wujuso Tusiwi,Team Nezolu,2024-10-23,Wujuso Tusiwi,2988,46
+519,37,KulLav,Joqimihe FC,2025-01-19,KulLav,3567,22
+520,13,ReviLirul,Bolilawa Gaming,2024-07-28,ReviLirul,1578,15
+521,27,Hibot Vumefuwi,Bolilawa Gaming,2025-03-01,Hibot Vumefuwi,2050,50
+522,8,Vufivese Pezusopo,NediDor,2024-10-03,Vufivese Pezusopo,2734,32
+523,48,Team Mijey,Team Mapukupa,2024-06-23,Team Mapukupa,2106,20
+524,13,Nitaweto FC,Coqof Fevejos,2024-05-22,Nitaweto FC,2074,48
+525,3,Dayuha Xifepava,Woyejice Gaming,2024-09-10,Dayuha Xifepava,1582,13
+526,1,Yifac Gaming,Team Negoru,2024-05-29,Yifac Gaming,2462,36
+527,18,Miseyogi FC,Zijuhi Hewupu,2024-10-20,Zijuhi Hewupu,2952,18
+528,35,Maqocoy FC,GasLiw,2024-03-09,Maqocoy FC,2735,34
+529,28,Team Vajidodu,Tomes Gaming,2025-01-27,Team Vajidodu,1706,40
+530,16,Team Wukot,Team Gowuz,2024-06-13,Team Gowuz,2464,11
+531,6,LiqNeg,Zezusoge Esports,2024-12-20,Zezusoge Esports,2560,49
+532,13,Woyejice Gaming,ZugiqCayag,2024-07-02,ZugiqCayag,3235,16
+533,48,Team Zedamob,QelKulu,2024-11-16,QelKulu,1488,34
+534,34,Gefexey Jawuyi,Joqimihe FC,2024-11-26,Gefexey Jawuyi,3527,45
+535,49,Joqimihe FC,Xegotube Tivuki,2024-05-02,Xegotube Tivuki,3387,41
+536,42,Bibeqasu Gaming,Team Vegeza,2024-12-26,Team Vegeza,1603,31
+537,16,Hareluxa Cejowax,FeyoFej,2024-04-30,Hareluxa Cejowax,2130,29
+538,21,Team Kegemasu,Paxaso Puzotoju,2024-05-31,Team Kegemasu,1944,44
+539,50,Zolaleh United,Zakava United,2024-11-14,Zolaleh United,2093,24
+540,49,QunubQas,Jihisofu Mejihasi,2025-01-17,QunubQas,1290,18
+541,33,Wowenoy Havicuw,Team Qemidod,2024-12-22,Team Qemidod,2160,11
+542,3,Hibot Vumefuwi,Repiku Fodusuc,2024-12-25,Hibot Vumefuwi,2634,13
+543,19,Wokasa Vovuloc,Team Nezolu,2025-01-27,Team Nezolu,1638,18
+544,43,Jetodih Mifecobo,Yaculime Poricu,2024-03-16,Yaculime Poricu,1694,45
+545,34,Qadibali Gebemil,Qufuh FC,2024-06-08,Qufuh FC,2541,18
+546,8,Team Wobasi,Wetiref Vuxak,2024-12-28,Team Wobasi,2887,30
+547,32,NawYer,Zelozej Esports,2025-01-26,NawYer,1974,16
+548,44,Wetiref Vuxak,Team Saliteg,2024-12-01,Team Saliteg,1437,50
+549,10,ZafazXiha,Dayuha Xifepava,2024-04-02,ZafazXiha,2733,14
+550,5,WiniNakij,Yogiqar Esports,2024-06-14,WiniNakij,1410,25
+551,8,Team Zuvel,Xoyaxa FC,2024-07-14,Xoyaxa FC,2597,40
+552,29,XosegMukek,Maraqece Vupuriq,2024-05-03,Maraqece Vupuriq,2447,14
+553,45,Yonafobo Esports,Team Wukod,2024-06-04,Yonafobo Esports,1374,34
+554,25,Team Wasad,KofarBayu,2024-11-30,KofarBayu,2667,43
+555,14,Jizume United,Wufiqazo FC,2025-01-25,Jizume United,3598,47
+556,30,Tojim Bokaqi,Qunete Esports,2025-01-16,Qunete Esports,3161,42
+557,14,Team Woqenahi,Team Xizuvuc,2024-10-12,Team Xizuvuc,3505,21
+558,40,Suhuta Cehire,Bohecoqo United,2024-08-21,Suhuta Cehire,3119,28
+559,50,Sogoyaje Hukejof,CulujJaz,2024-04-16,Sogoyaje Hukejof,1962,36
+560,49,FuhZasuf,Bemuf Vibos,2024-03-09,FuhZasuf,1636,26
+561,30,Suhuta Cehire,RanugRen,2024-06-04,RanugRen,3366,32
+562,27,QajadKek,ZugiqCayag,2024-12-12,QajadKek,3055,34
+563,37,Humos United,Team Yipigut,2024-04-05,Team Yipigut,2300,45
+564,24,FuhZasuf,Nilukeze Noran,2024-04-06,FuhZasuf,1794,49
+565,11,QelKulu,RikiYec,2024-12-22,RikiYec,1380,27
+566,37,Zisiyu Yupurof,Gulaha Jemaco,2024-05-07,Zisiyu Yupurof,2126,46
+567,49,Gofep Zehar,Team Fofamo,2024-06-09,Gofep Zehar,1842,35
+568,2,LulLefe,Team Xewuxa,2024-09-15,LulLefe,2373,36
+569,36,HemRuge,Team Nasifihe,2024-06-03,HemRuge,2496,29
+570,37,FuwRuh,Locimuh Qiluhi,2025-03-09,FuwRuh,3284,23
+571,15,Biyineb Gaming,WiniNakij,2024-07-20,WiniNakij,2415,23
+572,45,Zabigid Gaming,Team Xawakej,2024-05-20,Team Xawakej,2782,37
+573,47,SijoVal,ZuhDux,2024-08-06,SijoVal,2783,24
+574,41,WapuXili,Wetiref Vuxak,2024-11-22,WapuXili,3105,41
+575,3,Xoyaxa FC,Wafeqa United,2025-01-06,Wafeqa United,2748,18
+576,46,Team Voyati,Team Yipigut,2024-07-02,Team Yipigut,2164,50
+577,1,Bibeqasu Gaming,Team Kuzucocu,2024-04-29,Bibeqasu Gaming,2557,18
+578,9,YubSoc,Team Hadobu,2024-11-20,YubSoc,1934,45
+579,24,DugeZah,Team Xixadib,2024-12-18,DugeZah,3342,27
+580,25,Lixeka United,Qorig Esports,2024-11-13,Lixeka United,3386,42
+581,2,GasLiw,XizozFoso,2024-10-27,XizozFoso,2165,41
+582,22,Team Vegeza,Jizume United,2024-07-14,Jizume United,2301,46
+583,4,Waveju Esports,Zabigid Gaming,2024-03-09,Waveju Esports,3482,19
+584,21,Yifac Gaming,Team Nimugo,2024-03-23,Team Nimugo,3090,26
+585,19,Kigaxepe Larip,Fajipo Vufeze,2024-12-20,Fajipo Vufeze,2693,19
+586,20,JeseMiceq,Bibeqasu Gaming,2024-08-06,Bibeqasu Gaming,2148,40
+587,45,Duneqo Esports,Locimuh Qiluhi,2024-06-10,Locimuh Qiluhi,1588,32
+588,39,Wodifuw Gipiyoro,Team Hetuwor,2024-10-01,Team Hetuwor,2884,43
+589,31,Vayana Katoqe,VeqDazid,2024-12-24,VeqDazid,1253,18
+590,11,Badov Esports,GasLiw,2024-04-26,GasLiw,2985,43
+591,32,Zeruveko Pivovuh,Pitoyav Moyeviwo,2024-11-29,Zeruveko Pivovuh,2657,10
+592,48,Team Yudufib,Niqez Esports,2024-03-20,Team Yudufib,2010,34
+593,16,Yohakoje Esports,Sayineju Borimoba,2024-07-04,Sayineju Borimoba,3336,12
+594,22,Yazir Esports,Dimanofe Laqotur,2024-03-20,Dimanofe Laqotur,2742,33
+595,6,Mefavur United,Hibot Vumefuwi,2025-03-08,Hibot Vumefuwi,2973,42
+596,38,RajihSih,Cejudol Sacaken,2024-07-01,RajihSih,2049,39
+597,42,Team Nasifihe,Team Nuvomi,2025-01-31,Team Nasifihe,3594,31
+598,32,Demut United,Romasivi Gaming,2025-02-04,Romasivi Gaming,1772,11
+599,25,WiniNakij,Cejudol Sacaken,2024-12-28,WiniNakij,2623,50
+600,40,Niqez Esports,Team Hadobu,2025-02-03,Niqez Esports,3043,26
+601,24,Gamuxum Esports,Team Wobum,2024-03-13,Gamuxum Esports,1247,17
+602,41,Xereh Nufik,VezaZipok,2024-06-06,Xereh Nufik,3122,20
+603,26,Bemuf Vibos,GifebLafa,2024-10-10,Bemuf Vibos,1286,37
+604,35,Suseni Gaming,Paweqep Gaming,2024-03-23,Paweqep Gaming,2551,12
+605,22,Team Hepiwobu,HemRuge,2024-06-09,HemRuge,3515,43
+606,44,Team Bedika,Giwevi FC,2024-05-25,Team Bedika,2926,20
+607,14,Qoxuy Yinapo,Repiku Fodusuc,2024-08-18,Repiku Fodusuc,3563,33
+608,15,Jetodih Mifecobo,Team Xizuz,2024-07-27,Jetodih Mifecobo,2354,18
+609,31,Lixeka United,RikiYec,2025-02-13,Lixeka United,1705,16
+610,39,WafurPom,Team Qosorap,2024-11-05,WafurPom,3118,11
+611,2,QajadKek,XozePox,2024-11-10,QajadKek,1490,27
+612,42,Team Dilagag,Cohiluga Esports,2024-04-03,Cohiluga Esports,3496,41
+613,19,RubovYive,Badov Esports,2024-08-03,RubovYive,1898,34
+614,2,WiyogPutar,Team Jinud,2024-08-05,Team Jinud,1354,12
+615,27,Wujuso Tusiwi,Sukud Gaming,2024-06-13,Sukud Gaming,2311,39
+616,17,Gabogo United,Jetodih Mifecobo,2024-07-24,Gabogo United,2648,20
+617,30,Team Yudufib,Team Xawakej,2024-08-21,Team Xawakej,1384,31
+618,8,Team Kuzucocu,Wuyeziy Gaming,2024-05-14,Wuyeziy Gaming,3207,31
+619,43,DeciTod,Xohipi Gaming,2025-02-23,DeciTod,1731,41
+620,45,Yonafobo Esports,Suhuta Cehire,2024-05-12,Suhuta Cehire,3052,43
+621,10,Vojop Jabev,WagLaga,2024-06-11,WagLaga,1970,20
+622,15,VezaZipok,Muvodu Gaming,2024-03-23,VezaZipok,2223,19
+623,6,ZenuXowor,Bemuf Vibos,2025-02-03,Bemuf Vibos,3472,24
+624,48,Team Qosorap,Humoto Esports,2024-05-23,Humoto Esports,3243,17
+625,44,Team Degecut,Hejiqoba Kuxilo,2024-04-05,Hejiqoba Kuxilo,3229,45
+626,36,Team Qosorap,Team Bisane,2024-10-18,Team Bisane,1283,41
+627,49,RikiYec,Team Kanux,2024-10-01,RikiYec,3323,32
+628,26,Zevozoza United,Yejifeg Pufojisi,2024-07-18,Yejifeg Pufojisi,3072,22
+629,34,Paxaso Puzotoju,Coqof Fevejos,2024-08-30,Paxaso Puzotoju,1525,13
+630,5,Kizot Tokop,Team Wiqeb,2025-03-09,Kizot Tokop,1878,27
+631,36,Ducebu Esports,Tewur Lijesi,2024-05-09,Tewur Lijesi,1664,27
+632,40,Qopeni Qiyedaha,Team Cotuwiha,2024-07-18,Qopeni Qiyedaha,1907,19
+633,3,Team Worefuco,Xarohah Yametu,2024-10-20,Team Worefuco,1320,20
+634,48,Waredife FC,XadusJobe,2024-12-17,Waredife FC,1281,42
+635,2,Toneg Mizuxi,Yobidot Qovamuyi,2024-11-07,Toneg Mizuxi,1456,34
+636,16,Qepepige Esports,BojupJilu,2024-04-10,BojupJilu,3036,49
+637,1,HonibVohu,Team Nasifihe,2024-08-20,Team Nasifihe,1245,13
+638,32,Yejifeg Pufojisi,Niqez Esports,2024-03-22,Yejifeg Pufojisi,1523,34
+639,9,Team Lefusiw,HetiwJafa,2024-08-14,Team Lefusiw,2175,10
+640,34,Silevose Bogipove,Team Yejuluxi,2024-10-04,Team Yejuluxi,1372,20
+641,42,PuvuQasa,Daxojipe Jopoh,2025-02-14,Daxojipe Jopoh,2860,47
+642,26,KozeJayos,Dufewez Wokaf,2024-09-16,KozeJayos,3506,13
+643,40,Kizot Tokop,Wujuso Tusiwi,2024-03-20,Wujuso Tusiwi,1643,49
+644,26,MazojWimaj,Team Xawakej,2024-07-27,MazojWimaj,2749,43
+645,37,Rixebew Husetojo,Team Gihoc,2024-09-02,Team Gihoc,2001,13
+646,31,Desapiq FC,Team Xawakej,2024-06-17,Team Xawakej,3487,23
+647,43,PowuwBowo,TutaJipil,2024-06-25,TutaJipil,2446,10
+648,42,Reboloqu Tafeyaza,Wafeqa United,2025-01-08,Reboloqu Tafeyaza,2097,40
+649,50,Fadipow Sukipo,Team Niwaxav,2024-11-08,Team Niwaxav,2485,24
+650,48,Cikeceze Givaxoq,Team Qefik,2024-03-22,Cikeceze Givaxoq,3264,22
+651,32,ZafazXiha,Team Xujajum,2025-03-09,Team Xujajum,1289,15
+652,24,Team Zuxihup,Xiqacu Gaming,2024-10-15,Team Zuxihup,1952,11
+653,27,HetiwJafa,Team Riyufuza,2024-06-18,HetiwJafa,1555,26
+654,6,DeciTod,Focozi Gejoheg,2025-02-01,DeciTod,3443,35
+655,22,Team Jihikita,Joqimihe FC,2024-10-27,Joqimihe FC,1871,41
+656,4,WevZiji,Team Qizodez,2024-12-16,WevZiji,3559,13
+657,21,LilozZehi,Team Jeledek,2025-02-19,LilozZehi,1771,38
+658,41,Team Voyati,Tewur Lijesi,2024-09-19,Team Voyati,2519,45
+659,22,Zisiyu Yupurof,ToyiGum,2024-06-24,ToyiGum,2287,50
+660,38,Team Heraku,Gevorar FC,2024-08-13,Gevorar FC,3477,36
+661,2,FeyoFej,WemukGiv,2024-05-06,WemukGiv,3047,29
+662,42,ZuhDux,Buyoxow Esports,2025-01-29,Buyoxow Esports,2658,17
+663,36,NediDor,Jajavayu FC,2024-12-23,Jajavayu FC,3168,22
+664,29,Puhipizi Qedeqi,Team Vocadi,2024-09-29,Team Vocadi,3374,30
+665,23,Xefiyu FC,Team Gowuz,2024-07-10,Team Gowuz,3346,16
+666,36,Gigidoh FC,Team Nimugo,2024-07-19,Team Nimugo,3097,18
+667,13,Team Heraku,ZukuhPidon,2024-10-06,Team Heraku,1913,10
+668,18,PowuwBowo,Dovutose Esports,2025-01-01,Dovutose Esports,2014,48
+669,12,Notof Cubuteyi,Humoto Esports,2024-08-25,Notof Cubuteyi,2667,17
+670,45,Xeholi Winoxo,Team Tefizora,2024-09-18,Xeholi Winoxo,2483,31
+671,48,Xaruxupo United,Jizume United,2024-04-07,Xaruxupo United,1798,43
+672,49,RoyJome,Hicoyoh Cofim,2024-04-22,RoyJome,2112,27
+673,41,WapuXili,Niqez Esports,2024-03-15,WapuXili,2033,47
+674,11,Dovutose Esports,Zijuhi Hewupu,2024-08-06,Zijuhi Hewupu,2734,41
+675,1,Mefavur United,HanXogij,2024-08-21,Mefavur United,1379,36
+676,38,XadusJobe,Team Hadobu,2025-02-02,XadusJobe,2197,45
+677,12,Bifux Qigade,FuwRuh,2024-11-05,Bifux Qigade,3227,30
+678,21,GidaMane,Loqav Dadoqiti,2024-07-24,GidaMane,1480,27
+679,19,Team Yudufib,HusCana,2024-05-31,Team Yudufib,1364,37
+680,2,Cuyex Yuyaj,Cayoju Kawuzew,2024-03-13,Cuyex Yuyaj,2263,37
+681,46,Team Jihikita,Team Qemidod,2025-01-17,Team Jihikita,1750,46
+682,13,KulLav,Bohecoqo United,2024-07-22,Bohecoqo United,1208,48
+683,29,Team Xujajum,Puvorura United,2025-01-31,Team Xujajum,1627,38
+684,43,Kanehate Esports,Zenoko United,2025-01-19,Zenoko United,3309,41
+685,48,KacedZaqu,DosuPubu,2024-07-22,KacedZaqu,3256,21
+686,43,Bemomo Bujeku,Team Kijul,2024-09-18,Team Kijul,1276,10
+687,21,Xarohah Yametu,WapuXili,2024-07-15,WapuXili,2441,26
+688,18,Waredife FC,BuwDax,2024-09-17,Waredife FC,1871,20
+689,26,Yohakoje Esports,Team Buyemu,2025-01-26,Yohakoje Esports,2132,10
+690,18,Team Bedizoku,Team Zuxihup,2024-05-13,Team Bedizoku,3045,22
+691,18,Jubayuda Quheped,Tiresep FC,2024-04-03,Jubayuda Quheped,1581,28
+692,29,FosZemu,Kovotujo Dobewa,2024-10-29,Kovotujo Dobewa,2110,33
+693,40,Team Bedizoku,KulLav,2025-02-25,Team Bedizoku,3385,20
+694,13,Team Cotuwiha,Team Tecajofi,2025-01-21,Team Cotuwiha,1559,12
+695,45,Hejiqoba Kuxilo,BesoWunuz,2024-10-14,BesoWunuz,1940,17
+696,44,Zezusoge Esports,Team Tecajofi,2024-10-01,Zezusoge Esports,3333,17
+697,40,Sajil FC,Loqecuna Xifaz,2024-11-03,Loqecuna Xifaz,1387,30
+698,33,Bemuf Vibos,Higax Esports,2025-02-18,Bemuf Vibos,1607,44
+699,42,Jegevu FC,Team Xixadib,2024-10-03,Jegevu FC,2401,31
+700,22,Team Facom,Buyoxow Esports,2024-05-24,Buyoxow Esports,1630,20
+701,49,Xiqacu Gaming,Team Pikejap,2024-04-26,Xiqacu Gaming,3430,46
+702,30,Focozi Gejoheg,Team Xebawuk,2024-08-21,Team Xebawuk,2992,27
+703,20,Qerefuxe Gaming,NawYer,2024-03-22,Qerefuxe Gaming,2067,49
+704,33,QirejZayo,Team Degecut,2024-12-11,Team Degecut,3112,11
+705,50,Team Voyati,Bemuf Vibos,2024-04-07,Bemuf Vibos,3224,49
+706,32,Huvuco United,Wufiqazo FC,2024-06-09,Huvuco United,2914,47
+707,5,WagLaga,Wapul Jusurefe,2025-02-01,WagLaga,3163,44
+708,30,VezaZipok,Pepoquzu Lulijuji,2024-08-28,VezaZipok,1563,41
+709,9,FeyoFej,Team Wukot,2024-07-03,Team Wukot,1630,13
+710,1,Team Bedizoku,JoqiCuyot,2024-08-07,Team Bedizoku,2927,37
+711,37,Team Xutodoze,Xeholi Winoxo,2025-02-23,Team Xutodoze,3344,22
+712,50,Team Vocadi,Locimuh Qiluhi,2024-12-09,Locimuh Qiluhi,2109,12
+713,11,Nuxida United,Mizuca Wegobo,2025-02-07,Nuxida United,2886,17
+714,30,Team Wiqeb,Wehuma Esports,2025-02-03,Wehuma Esports,3479,44
+715,24,Team Hetuwor,Cejudol Sacaken,2025-03-02,Team Hetuwor,1479,21
+716,17,Team Kegemasu,Yejifeg Pufojisi,2024-08-26,Yejifeg Pufojisi,3333,41
+717,11,Daxojipe Jopoh,Lutarato Yomiberi,2024-10-20,Lutarato Yomiberi,2502,39
+718,12,Team Zatula,Team Facom,2025-02-18,Team Facom,1249,21
+719,12,Yelozen United,Jibiz Gaming,2024-12-11,Yelozen United,3262,44
+720,41,Team Zuvel,Team Qavanari,2024-10-04,Team Qavanari,1717,40
+721,45,Qufuh FC,FopLova,2024-03-13,Qufuh FC,3036,41
+722,29,Gigim Foroc,HuruLaho,2024-05-23,HuruLaho,2726,18
+723,32,Xoyaxa FC,GidaMane,2024-08-04,GidaMane,1919,26
+724,9,YotoqQuxa,Team Jeledek,2024-03-23,YotoqQuxa,2424,15
+725,1,Xemiyona Watateya,Sirumum Yasopuxi,2024-09-03,Xemiyona Watateya,1367,16
+726,47,DeciTod,Team Denij,2024-07-02,DeciTod,2076,25
+727,2,Wuyeziy Gaming,Fehepuw United,2024-04-08,Wuyeziy Gaming,2787,24
+728,47,Qadibali Gebemil,Huqucoh Tidogu,2024-08-26,Qadibali Gebemil,1364,17
+729,43,Loqav Dadoqiti,Xazuqewe Kufisu,2024-07-17,Loqav Dadoqiti,2389,48
+730,32,Team Vegeza,Zapucaz Rigawi,2025-03-06,Zapucaz Rigawi,2457,37
+731,20,SiyowLoqon,Team Cotuwiha,2024-12-22,SiyowLoqon,1644,33
+732,49,ZugiqCayag,Wehuma Esports,2025-02-13,ZugiqCayag,2750,32
+733,18,Team Gihoc,Gixido Bukur,2024-03-31,Gixido Bukur,1749,43
+734,5,Silevose Bogipove,Nekom FC,2024-04-03,Nekom FC,1921,38
+735,14,Notof Cubuteyi,XeqeqKim,2025-01-13,Notof Cubuteyi,2794,13
+736,28,WoyVov,WemukGiv,2025-01-11,WemukGiv,2197,29
+737,22,Foyat Gaming,Dovutose Esports,2024-05-27,Dovutose Esports,2699,10
+738,31,Team Muwijin,Pexam Wajoto,2024-08-11,Team Muwijin,2541,19
+739,45,NacosKufug,VacQoho,2024-05-30,NacosKufug,3477,25
+740,11,Team Wasad,Pucugocu United,2024-10-02,Pucugocu United,2412,33
+741,5,Team Qosorap,Tubuq Cubebog,2025-01-30,Tubuq Cubebog,1846,34
+742,35,Yejifeg Pufojisi,Bufog FC,2025-01-08,Bufog FC,1854,22
+743,35,XosegMukek,Team Wobasi,2024-09-29,Team Wobasi,1336,39
+744,3,Micas Toned,Team Yakopan,2025-02-11,Micas Toned,2461,15
+745,13,Team Cukejeme,Team Puzumap,2024-03-17,Team Puzumap,2081,45
+746,27,Marax Esports,Team Negoru,2025-02-10,Team Negoru,2746,28
+747,2,RubovYive,HibeGic,2024-05-25,HibeGic,2417,12
+748,15,Team Yipigut,Yelozen United,2024-08-21,Yelozen United,2857,41
+749,40,Wodifuw Gipiyoro,Team Vamizu,2024-09-07,Team Vamizu,1650,20
+750,48,Team Qeyoloq,Team Panux,2024-06-15,Team Panux,2381,12
+751,2,Jibiz Gaming,Team Mexubaj,2025-01-12,Team Mexubaj,3325,35
+752,15,Team Qosorap,Vufivese Pezusopo,2024-07-21,Vufivese Pezusopo,2607,41
+753,22,FosZemu,WawiWaz,2024-09-11,FosZemu,2153,34
+754,8,Bejahiru Hoxov,Sagebuxe Yafex,2024-10-07,Bejahiru Hoxov,1672,32
+755,21,Wokasa Vovuloc,Gigidoh FC,2024-09-23,Gigidoh FC,3203,46
+756,50,Ducebu Esports,LiqNeg,2024-04-03,LiqNeg,2637,40
+757,9,Hicoyoh Cofim,Luwihiy Gaming,2024-11-26,Luwihiy Gaming,1306,40
+758,10,Team Wobum,Team Xixadib,2024-09-12,Team Wobum,1599,21
+759,38,JeseMiceq,Woyejice Gaming,2024-12-27,JeseMiceq,1753,50
+760,1,XiwaNuxo,Bufog FC,2025-02-08,Bufog FC,1574,21
+761,2,DameKoz,Team Qizodez,2024-05-05,DameKoz,2825,22
+762,50,Team Wukot,RajihSih,2024-03-11,RajihSih,1362,39
+763,25,Tewur Lijesi,Kayije Xolav,2024-09-10,Tewur Lijesi,2122,18
+764,39,Qofeb Yofil,Tewur Lijesi,2024-11-24,Qofeb Yofil,2661,48
+765,48,ZuhDux,Team Niwaxav,2024-11-27,Team Niwaxav,2057,42
+766,38,Huqucoh Tidogu,QajadKek,2025-02-15,QajadKek,2105,30
+767,40,Lixeka United,Qoxipa Esports,2025-02-17,Lixeka United,3231,13
+768,22,Rosayu Gomuxax,Fadipow Sukipo,2024-11-16,Fadipow Sukipo,1292,31
+769,43,Sayineju Borimoba,Bufog FC,2024-05-21,Bufog FC,2827,43
+770,16,ZenuXowor,Xaruxupo United,2024-06-21,Xaruxupo United,3034,29
+771,14,WemukGiv,Dimanofe Laqotur,2024-05-20,WemukGiv,2612,30
+772,50,Yonafobo Esports,Team Mexubaj,2025-01-08,Team Mexubaj,2426,42
+773,3,Zuvusuj Esports,YotoqQuxa,2024-07-05,YotoqQuxa,1990,22
+774,40,Team Nuvomi,Team Jihikita,2024-05-21,Team Jihikita,3462,38
+775,21,Vevacom Lexifeje,Team Xuvum,2024-05-20,Team Xuvum,3418,24
+776,26,Wetiref Vuxak,Team Xujajum,2024-08-16,Team Xujajum,1715,42
+777,2,Nekek United,HemRuge,2025-01-26,HemRuge,2600,40
+778,23,BesoWunuz,QimeDeqi,2024-05-24,QimeDeqi,3196,20
+779,44,Team Zuxihup,Gololuho Esports,2024-07-21,Gololuho Esports,2280,22
+780,27,Gigim Foroc,Lutarato Yomiberi,2024-11-01,Gigim Foroc,2780,40
+781,23,FosZemu,Cohiluga Esports,2024-05-17,Cohiluga Esports,3147,32
+782,28,Cejudol Sacaken,Tojim Bokaqi,2025-02-25,Cejudol Sacaken,3022,32
+783,45,Team Tefizora,Duzegofa Gaming,2024-06-04,Team Tefizora,3323,11
+784,2,Maqocoy FC,Dimanofe Laqotur,2024-12-09,Maqocoy FC,1823,15
+785,22,WafurPom,Qoxipa Esports,2024-08-25,WafurPom,1212,37
+786,35,QirejZayo,Muvodu Gaming,2024-08-04,QirejZayo,1400,13
+787,17,Tiwon United,Coqof Fevejos,2024-12-01,Tiwon United,1989,36
+788,35,Gulaha Jemaco,Team Qemidod,2025-02-05,Gulaha Jemaco,2447,29
+789,42,FaqoDoz,JoqiCuyot,2024-12-28,JoqiCuyot,2185,30
+790,2,Notof Cubuteyi,Hepiwewu United,2024-10-22,Hepiwewu United,2153,35
+791,43,Team Migosu,Team Vocadi,2024-04-16,Team Vocadi,1500,45
+792,1,Yazir Esports,Tixiruti Esports,2024-09-30,Yazir Esports,1638,15
+793,48,HonibVohu,Yiwafuw Gaming,2024-06-01,Yiwafuw Gaming,1963,24
+794,4,Team Delegi,Team Worefuco,2024-05-30,Team Worefuco,1575,31
+795,13,Fajipo Vufeze,FuwRuh,2024-12-12,FuwRuh,3013,35
+796,10,Kigaxepe Larip,Bolilawa Gaming,2025-02-27,Bolilawa Gaming,2604,12
+797,41,CulujJaz,Team Bedizoku,2024-10-04,Team Bedizoku,3597,22
+798,2,Qerefuxe Gaming,Mefavur United,2024-03-21,Qerefuxe Gaming,3202,34
+799,6,Xadujo Bixekuj,Tudat Gaming,2024-12-11,Tudat Gaming,1298,45
+800,2,Kotey Peqopexi,Team Nasifihe,2024-07-13,Kotey Peqopexi,3027,31
+801,2,Cuyex Yuyaj,Team Holico,2025-02-17,Team Holico,1834,35
+802,7,Team Mijey,Pitoyav Moyeviwo,2025-02-08,Team Mijey,1873,18
+803,27,NebawFum,Yisikeyi FC,2024-06-03,NebawFum,2390,23
+804,41,Yufum Hiyexe,Gabogo United,2025-01-26,Gabogo United,1471,29
+805,6,Gofep Zehar,FosZemu,2024-10-26,FosZemu,1592,41
+806,13,VacQoho,Kixejeca Gaming,2024-10-04,VacQoho,3590,50
+807,4,Pitoyav Moyeviwo,Wokasa Vovuloc,2024-07-09,Pitoyav Moyeviwo,1978,20
+808,49,ZukuhPidon,Pepoquzu Lulijuji,2024-04-05,ZukuhPidon,1936,50
+809,35,RubovYive,Fewena Muluwayu,2024-08-02,RubovYive,2497,28
+810,50,Team Vegeza,Yifac Gaming,2024-04-11,Yifac Gaming,2802,10
+811,26,Jokiruf FC,Nejidike Esports,2025-01-19,Nejidike Esports,1253,39
+812,32,DosuPubu,Muvodu Gaming,2024-06-21,DosuPubu,1772,20
+813,21,Nekek United,DugeZah,2025-01-14,Nekek United,2928,30
+814,31,Zowesogo United,Team Lefusiw,2024-03-14,Team Lefusiw,2042,50
+815,35,Qepepige Esports,Hejiqoba Kuxilo,2024-04-13,Hejiqoba Kuxilo,2155,14
+816,22,Team Lifuwoqu,Gamuxum Esports,2024-11-12,Gamuxum Esports,2589,14
+817,9,Yohakoje Esports,Team Nasifihe,2025-02-18,Team Nasifihe,1408,18
+818,49,Team Moqubo,KozeJayos,2024-06-16,KozeJayos,1567,41
+819,24,Team Gihoc,ToyiGum,2024-09-05,ToyiGum,3154,23
+820,22,Cayoju Kawuzew,VeqDazid,2024-07-09,VeqDazid,1514,12
+821,9,Yonafobo Esports,Team Wiqeb,2024-10-25,Yonafobo Esports,3226,27
+822,37,Sahes FC,Nemuray Tujebi,2024-05-10,Nemuray Tujebi,3104,31
+823,18,Puhipizi Qedeqi,SijoVal,2025-01-20,Puhipizi Qedeqi,3484,33
+824,19,Gabogo United,Vujoxaga Esports,2024-06-07,Gabogo United,2128,42
+825,45,Mizuca Wegobo,SitiJoyi,2024-12-06,SitiJoyi,2855,47
+826,36,Team Wobasi,Repiku Fodusuc,2024-04-18,Team Wobasi,3211,27
+827,42,Team Racarohi,Gayikivi Wahuqa,2024-12-27,Team Racarohi,3226,42
+828,27,Team Mijey,HonibVohu,2024-10-22,Team Mijey,2186,38
+829,26,GavSeg,RanugRen,2024-09-27,GavSeg,3342,16
+830,38,Team Viwihuqu,Gololuho Esports,2024-11-28,Gololuho Esports,1937,24
+831,34,Zeruveko Pivovuh,XifJokis,2025-02-26,XifJokis,2020,41
+832,11,Cefof United,Yitac United,2024-06-11,Yitac United,2060,49
+833,10,Demut United,Cejudol Sacaken,2024-07-11,Cejudol Sacaken,1439,31
+834,18,Humos United,Qoxipa Esports,2024-11-19,Qoxipa Esports,2396,33
+835,35,ZugiqCayag,Team Qizodez,2024-03-22,ZugiqCayag,2859,36
+836,45,SijoVal,Team Zedamob,2024-03-21,SijoVal,2450,16
+837,1,Team Facom,Leguvus FC,2024-07-25,Team Facom,3257,17
+838,34,Pucugocu United,Xohipi Gaming,2025-02-19,Xohipi Gaming,1332,30
+839,31,Lixeka United,Yifac Gaming,2024-11-13,Yifac Gaming,1416,32
+840,7,Qoxipa Esports,Ruruzome Gaming,2024-05-25,Qoxipa Esports,1755,33
+841,6,Team Cowamohu,Wodifuw Gipiyoro,2024-06-12,Wodifuw Gipiyoro,1349,12
+842,26,KarLew,QezYehe,2024-08-15,QezYehe,2909,43
+843,10,Team Gofoqute,Votiqex Dilibiwe,2024-07-26,Votiqex Dilibiwe,1212,33
+844,41,Giwevi FC,Bolilawa Gaming,2024-07-29,Giwevi FC,2543,30
+845,15,Desapiq FC,Paweqep Gaming,2024-11-15,Paweqep Gaming,1286,37
+846,20,Zelozej Esports,Team Tasahesi,2024-04-20,Team Tasahesi,3281,33
+847,24,QezYehe,Team Huxobaq,2024-09-23,Team Huxobaq,3470,38
+848,2,Buyoxow Esports,Team Jihikita,2024-04-05,Team Jihikita,1265,17
+849,2,Vufivese Pezusopo,RanugRen,2024-07-08,Vufivese Pezusopo,3562,50
+850,40,Gamuxum Esports,Jibiz Gaming,2024-11-07,Jibiz Gaming,1544,42
+851,43,GavSeg,PuvuQasa,2024-10-21,PuvuQasa,2293,38
+852,13,Gulaha Jemaco,Waredife FC,2025-01-21,Gulaha Jemaco,2919,10
+853,34,Niqez Esports,Sajil FC,2024-06-07,Sajil FC,3068,16
+854,25,Hibot Vumefuwi,WapuXili,2024-10-11,Hibot Vumefuwi,2774,49
+855,6,Nuxida United,RoheGaric,2024-07-11,RoheGaric,2110,10
+856,17,BesoWunuz,Yemesom Qajot,2025-01-24,Yemesom Qajot,3262,44
+857,11,Qanado Esports,Team Wigure,2025-03-09,Team Wigure,2608,13
+858,23,Fuqicar United,Goyajel FC,2024-11-02,Goyajel FC,2290,12
+859,5,Fewena Muluwayu,SevaKohi,2024-04-21,Fewena Muluwayu,1316,46
+860,21,Team Bisane,SijoVal,2025-01-05,SijoVal,2034,45
+861,1,Zapucaz Rigawi,Mizuca Wegobo,2025-02-21,Zapucaz Rigawi,2672,27
+862,3,Gixido Bukur,Team Kojaduce,2024-10-29,Gixido Bukur,3576,46
+863,21,SitiJoyi,Sajil FC,2024-12-17,Sajil FC,2625,11
+864,34,Mefavur United,SadiLuwez,2025-02-04,SadiLuwez,3187,20
+865,20,Team Kijul,ZugiqCayag,2024-04-10,ZugiqCayag,1923,23
+866,31,Xoyaxa FC,TamefVag,2024-07-26,TamefVag,2986,29
+867,35,Wetiref Vuxak,Rixebew Husetojo,2024-07-03,Wetiref Vuxak,2567,21
+868,4,Vayana Katoqe,Yohakoje Esports,2024-12-06,Vayana Katoqe,3016,36
+869,9,Xadujo Bixekuj,Tudat Gaming,2024-11-10,Tudat Gaming,1429,18
+870,18,Team Holico,Qufuh FC,2024-10-29,Qufuh FC,1509,36
+871,36,QirejZayo,PewuKim,2025-02-15,PewuKim,1583,24
+872,22,Kotey Peqopexi,Team Mapukupa,2024-06-24,Kotey Peqopexi,2889,49
+873,45,Paweqep Gaming,WawiWaz,2025-01-05,WawiWaz,1567,42
+874,47,Yemesom Qajot,Team Yejuluxi,2024-07-21,Team Yejuluxi,2363,24
+875,27,Yapinu Fexot,Hareluxa Cejowax,2024-05-13,Yapinu Fexot,2411,26
+876,16,WagLaga,XukZadul,2024-03-29,XukZadul,1869,16
+877,21,DugeZah,Team Pusohi,2024-03-16,Team Pusohi,2505,40
+878,38,Team Xekopo,Qitipiwi Esports,2025-02-12,Qitipiwi Esports,1930,41
+879,30,Kovotujo Dobewa,Qoxuy Yinapo,2024-03-13,Qoxuy Yinapo,2633,17
+880,13,Qunete Esports,Kotey Peqopexi,2024-06-27,Kotey Peqopexi,1318,31
+881,34,Team Delegi,SiyowLoqon,2024-07-12,Team Delegi,1375,17
+882,13,MayiLonun,XosegMukek,2024-07-16,MayiLonun,2565,23
+883,10,Hicoyoh Cofim,NediDor,2024-11-01,NediDor,1998,26
+884,32,Rovili Yekom,Bolilawa Gaming,2025-01-12,Bolilawa Gaming,2503,47
+885,31,Team Tecajofi,Zoracig Esports,2024-04-11,Team Tecajofi,2152,45
+886,2,Josiza Gaming,Bibeqasu Gaming,2025-02-21,Josiza Gaming,2154,24
+887,25,Hepiwewu United,Vayana Katoqe,2024-04-03,Hepiwewu United,3395,48
+888,17,Tixiruti Esports,Zoracig Esports,2024-09-09,Tixiruti Esports,3467,16
+889,12,FuwRuh,Gayikivi Wahuqa,2024-11-21,FuwRuh,2816,50
+890,4,Loqav Dadoqiti,Luxode United,2024-11-05,Luxode United,3455,50
+891,43,Loqecuna Xifaz,KulLav,2024-11-15,Loqecuna Xifaz,3004,12
+892,16,Wujuso Tusiwi,Yufum Hiyexe,2024-09-22,Yufum Hiyexe,2765,25
+893,25,Kizot Tokop,Team Qosorap,2024-07-24,Team Qosorap,1660,38
+894,41,Yobidot Qovamuyi,FeyoFej,2024-12-14,Yobidot Qovamuyi,1504,11
+895,28,Badov Esports,Qojariju Gaming,2024-11-07,Badov Esports,2037,46
+896,37,Ranewe Taman,Team Nasifihe,2024-11-30,Team Nasifihe,1293,24
+897,38,Bejahiru Hoxov,Team Zatula,2025-02-06,Bejahiru Hoxov,2424,36
+898,23,Qunete Esports,Jegevu FC,2024-10-19,Jegevu FC,3592,11
+899,13,Team Qipiy,NawYer,2024-06-12,NawYer,3423,37
+900,50,SadiLuwez,Team Kanux,2024-05-06,SadiLuwez,3141,50
+901,40,Qojariju Gaming,Team Qedoli,2024-08-09,Qojariju Gaming,3294,29
+902,29,Team Wohus,Hejiqoba Kuxilo,2024-08-28,Hejiqoba Kuxilo,3118,17
+903,40,Romasivi Gaming,WevZiji,2024-06-26,Romasivi Gaming,3169,40
+904,7,Team Tefizora,Wapul Jusurefe,2024-05-10,Team Tefizora,2625,39
+905,11,Bolilawa Gaming,Team Hepiwobu,2025-01-13,Team Hepiwobu,1528,34
+906,14,Team Jihikita,Team Degecut,2024-09-06,Team Jihikita,1936,44
+907,13,Wapul Jusurefe,FeyeHojiw,2024-11-12,FeyeHojiw,1679,27
+908,41,Team Xebawuk,Nitaweto FC,2024-07-06,Team Xebawuk,1695,25
+909,21,MazojWimaj,Team Yakopan,2024-11-05,Team Yakopan,1996,28
+910,25,Jubayuda Quheped,DoturQod,2024-06-28,DoturQod,2202,18
+911,21,YotoqQuxa,Josiza Gaming,2024-07-01,Josiza Gaming,1403,35
+912,23,Team Kanux,KofarBayu,2024-03-28,Team Kanux,2417,35
+913,35,Zoracig Esports,Team Xewuxa,2024-08-25,Team Xewuxa,2103,29
+914,16,Team Jihikita,Team Mexubaj,2024-10-22,Team Mexubaj,1665,50
+915,11,Gigim Foroc,Team Holico,2024-09-22,Gigim Foroc,3039,37
+916,1,Puvorura United,Yimakovi FC,2024-11-26,Puvorura United,3270,11
+917,1,Nazamif Gaming,Zabigid Gaming,2024-10-27,Nazamif Gaming,1594,39
+918,20,Cayoju Kawuzew,KacedZaqu,2024-06-29,KacedZaqu,1431,25
+919,2,Kayije Xolav,FuxeQomi,2024-10-23,Kayije Xolav,2691,13
+920,24,Mizuca Wegobo,ToyiGum,2025-03-02,Mizuca Wegobo,2006,16
+921,25,Gamuxum Esports,Yelozen United,2024-10-24,Gamuxum Esports,1891,43
+922,44,Vujoxaga Esports,DoturQod,2024-11-18,Vujoxaga Esports,3074,22
+923,9,GidaMane,Muvodu Gaming,2024-05-20,Muvodu Gaming,3154,46
+924,23,Hepiwewu United,Team Niwaxav,2024-08-27,Team Niwaxav,3430,46
+925,43,JoqiCuyot,HemRuge,2024-08-23,JoqiCuyot,1828,24
+926,32,Team Facom,Sajil FC,2025-03-08,Team Facom,1706,31
+927,28,Qofeb Yofil,Nuxida United,2024-07-06,Nuxida United,2869,28
+928,10,Team Xutodoze,Buyoxow Esports,2024-12-21,Team Xutodoze,1428,12
+929,16,Gamuxum Esports,Kizot Tokop,2024-10-11,Kizot Tokop,2825,24
+930,43,Goyajel FC,Jozafic Gayuj,2024-06-25,Jozafic Gayuj,3223,28
+931,4,FuwRuh,Team Facom,2024-07-06,Team Facom,2381,29
+932,40,BojupJilu,FaqoDoz,2025-03-09,FaqoDoz,1867,13
+933,50,Foyat Gaming,Gayikivi Wahuqa,2024-12-16,Gayikivi Wahuqa,1785,46
+934,15,Team Gaboq,Yonafobo Esports,2024-05-27,Team Gaboq,3163,15
+935,26,FuwRuh,Wuyeziy Gaming,2024-12-23,Wuyeziy Gaming,3048,33
+936,39,Paweqep Gaming,Team Gowuz,2024-05-24,Team Gowuz,1498,41
+937,17,Team Yudufib,Team Mepahi,2024-07-13,Team Mepahi,1864,11
+938,32,Suseni Gaming,KofarBayu,2024-10-31,Suseni Gaming,2661,15
+939,47,Hejiqoba Kuxilo,TamefVag,2025-02-18,TamefVag,2114,28
+940,8,Xeholi Winoxo,Bibeqasu Gaming,2025-01-26,Bibeqasu Gaming,1296,47
+941,9,Reboloqu Tafeyaza,QimeDeqi,2025-02-27,Reboloqu Tafeyaza,3162,44
+942,35,DosuPubu,Jahacet Kawefes,2025-01-20,DosuPubu,1905,47
+943,11,ZafazXiha,Fajipo Vufeze,2024-06-03,ZafazXiha,2779,47
+944,5,Team Yivuyup,WagLaga,2024-09-04,Team Yivuyup,3387,31
+945,45,Team Qakihuzi,SitiJoyi,2024-03-09,SitiJoyi,1762,45
+946,36,Paxaso Puzotoju,WoyVov,2025-02-01,Paxaso Puzotoju,2075,14
+947,49,Nejidike Esports,Team Vamizu,2025-02-03,Nejidike Esports,1443,46
+948,39,LilozZehi,WawiWaz,2024-09-22,WawiWaz,2632,44
+949,11,Josiza Gaming,Yelozen United,2025-02-03,Josiza Gaming,2333,35
+950,3,Zapucaz Rigawi,WoyVov,2024-12-27,Zapucaz Rigawi,3077,12
+951,30,QunubQas,Zowesogo United,2024-06-07,QunubQas,1580,27
+952,22,Maraqece Vupuriq,Romasivi Gaming,2024-11-20,Maraqece Vupuriq,3275,20
+953,43,VuzohPed,Lixeka United,2024-07-12,VuzohPed,3496,32
+954,20,WiyogPutar,Jegevu FC,2024-12-06,Jegevu FC,1970,41
+955,17,Rixebew Husetojo,Yemesom Qajot,2024-05-20,Yemesom Qajot,3471,44
+956,14,LolaWaye,Deduy Xageqam,2024-11-24,Deduy Xageqam,1386,20
+957,25,FuxeQomi,Jahacet Kawefes,2024-11-28,FuxeQomi,2804,24
+958,30,Team Yivuyup,SijoVal,2025-02-16,SijoVal,2937,46
+959,29,XadusJobe,Team Qosorap,2024-07-23,XadusJobe,1836,18
+960,33,QajadKek,Tobiv Esports,2024-08-23,Tobiv Esports,1546,15
+961,6,Team Lefusiw,DugeZah,2024-04-02,Team Lefusiw,2975,26
+962,37,MitSeb,Tasen United,2024-03-21,MitSeb,1210,30
+963,20,Fewena Muluwayu,Team Gihoc,2025-02-22,Fewena Muluwayu,1991,27
+964,41,Miseyogi FC,BuwDax,2025-01-27,Miseyogi FC,1920,12
+965,36,Team Xixadib,Micas Toned,2024-12-15,Micas Toned,1344,35
+966,6,ZenuXowor,Duneqo Esports,2024-07-15,ZenuXowor,3563,11
+967,13,MopoJeti,Lixeka United,2024-06-30,MopoJeti,3019,32
+968,24,Wodifuw Gipiyoro,VeqDazid,2024-04-11,Wodifuw Gipiyoro,2967,36
+969,41,RubovYive,RoheGaric,2024-08-26,RoheGaric,1949,32
+970,40,Team Sokuv,ZuhDux,2024-03-28,Team Sokuv,3273,48
+971,32,Team Wohus,Team Xaqoviv,2024-09-30,Team Xaqoviv,2099,22
+972,1,Dufewez Wokaf,HanXogij,2024-12-18,Dufewez Wokaf,2793,29
+973,48,Tixiruti Esports,Team Biqad,2024-05-13,Tixiruti Esports,3253,26
+974,3,Jahacet Kawefes,KoqMakoq,2024-08-08,Jahacet Kawefes,2914,22
+975,39,Team Sokuv,Team Wigure,2024-03-12,Team Sokuv,3487,21
+976,13,Maraqece Vupuriq,Pexam Wajoto,2024-04-02,Maraqece Vupuriq,3242,20
+977,23,Team Riyufuza,ZukuhPidon,2024-12-12,Team Riyufuza,2007,38
+978,46,SevaKohi,SadiLuwez,2024-09-16,SevaKohi,1937,40
+979,16,Duzegofa Gaming,Jubayuda Quheped,2024-05-22,Jubayuda Quheped,3308,43
+980,38,Team Wohus,Locimuh Qiluhi,2024-10-22,Team Wohus,2518,10
+981,26,Team Qiwebegu,Team Xixadib,2025-03-02,Team Qiwebegu,1683,28
+982,3,GasLiw,KofarBayu,2024-06-28,GasLiw,1547,25
+983,40,Team Yivuyup,MitSeb,2024-06-30,Team Yivuyup,1979,47
+984,19,Team Panux,Tiresep FC,2024-09-11,Team Panux,2061,44
+985,47,Team Muwijin,Cuyex Yuyaj,2024-09-27,Team Muwijin,1316,38
+986,47,Team Tefecugo,Ducebu Esports,2024-08-16,Ducebu Esports,1745,44
+987,48,FopLova,Qoxuy Yinapo,2025-03-01,Qoxuy Yinapo,3229,14
+988,46,Duliroqu Esports,Xemiyona Watateya,2024-04-26,Xemiyona Watateya,1423,11
+989,3,Romasivi Gaming,Hujoq Puyid,2025-02-24,Hujoq Puyid,1219,25
+990,27,Bolilawa Gaming,Luwihiy Gaming,2024-10-29,Luwihiy Gaming,2771,47
+991,30,Team Yakopan,HetiwJafa,2024-07-29,Team Yakopan,2924,12
+992,46,TutaJipil,QezYehe,2024-12-22,QezYehe,3549,38
+993,21,Team Cowamohu,Locimuh Qiluhi,2024-10-11,Team Cowamohu,2645,14
+994,29,Puhipizi Qedeqi,Wunur Hoqomi,2024-12-06,Puhipizi Qedeqi,2040,11
+995,34,Team Niwaxav,Gabogo United,2024-10-17,Gabogo United,1727,39
+996,24,ZuhDux,RajihSih,2025-01-18,RajihSih,3144,22
+997,2,Miseyogi FC,BuwDax,2024-03-15,BuwDax,1506,10
+998,5,Bibeqasu Gaming,Zilupiye Esports,2024-04-16,Zilupiye Esports,1829,16
+999,14,Team Yakopan,Yitac United,2024-07-23,Team Yakopan,3537,50
+1000,17,Hevep Esports,KacedZaqu,2024-08-28,Hevep Esports,2092,47
