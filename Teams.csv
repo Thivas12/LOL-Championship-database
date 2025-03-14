@@ -1,0 +1,501 @@
+TeamID,TeamName,Region,FormationYear,TotalChampionships
+1,Team Yuzun,CN,2015,5
+2,Team Pikejap,SEA,2015,4
+3,Team Dipayewi,KR,2017,5
+4,Jubayuda Quheped,SEA,2019,0
+5,Buzoroxa Geducevu,WS,2020,0
+6,Notof Cubuteyi,SEA,2015,5
+7,Gayikivi Wahuqa,WS,2011,3
+8,WemukGiv,EU,2017,5
+9,Yiwafuw Gaming,NA,2015,0
+10,Duneqo Esports,EU,2022,3
+11,QirejZayo,WS,2015,4
+12,Team Lefusiw,CN,2021,3
+13,SevaKohi,SEA,2010,5
+14,QajadKek,WS,2015,4
+15,NoheXavox,KR,2016,4
+16,XukZadul,EU,2016,0
+17,Ranewe Taman,NA,2013,1
+18,Team Viwihuqu,NA,2011,1
+19,Jozafic Gayuj,NA,2019,0
+20,KoqMakoq,WS,2013,4
+21,Yapinu Fexot,EU,2015,1
+22,XeqeqKim,KR,2016,2
+23,Team Xutodoze,WS,2021,4
+24,Tixiruti Esports,NA,2011,0
+25,JiwoNawud,CN,2022,2
+26,Nejidike Esports,KR,2013,5
+27,Bufog FC,EU,2016,3
+28,Wujuso Tusiwi,EU,2015,0
+29,Hisuhobe Pemez,KR,2015,3
+30,YitVekoj,SEA,2022,5
+31,Paweqep Gaming,CN,2022,5
+32,Doqekuk Wavuju,SEA,2010,5
+33,Xemiyona Watateya,KR,2020,0
+34,Pexam Wajoto,KR,2019,3
+35,Jihisofu Mejihasi,SEA,2012,4
+36,Team Socoyo,WS,2018,0
+37,Humos United,SEA,2019,2
+38,Xereh Nufik,CN,2019,0
+39,Team Yivuyup,KR,2016,1
+40,Wafeqa United,CN,2011,3
+41,Dovutose Esports,SEA,2015,4
+42,Kanehate Esports,SEA,2015,1
+43,Team Zuxihup,SEA,2015,5
+44,Team Qefik,KR,2019,0
+45,Fipufi Gaming,KR,2021,4
+46,Team Cagis,SEA,2016,3
+47,FopLova,CN,2011,0
+48,ToyiGum,EU,2017,3
+49,Pitoyav Moyeviwo,WS,2022,4
+50,Qunete Esports,EU,2020,2
+51,BuxuCifac,EU,2018,2
+52,Team Hadobu,NA,2020,5
+53,Yimakovi FC,NA,2022,1
+54,FuwRuh,SEA,2022,4
+55,Buyoxow Esports,EU,2014,2
+56,Nekom FC,CN,2015,0
+57,Team Jihikita,WS,2016,3
+58,HonibVohu,WS,2018,5
+59,Team Vocadi,WS,2018,5
+60,Kizot Tokop,KR,2012,2
+61,QunubQas,CN,2019,2
+62,Reboloqu Tafeyaza,SEA,2010,5
+63,ZugiqCayag,NA,2016,3
+64,Team Hetuwor,CN,2020,3
+65,MayiLonun,CN,2016,3
+66,LagiQiv,NA,2013,1
+67,Team Kuzucocu,CN,2022,0
+68,SahadFoyen,KR,2020,1
+69,Dayuha Xifepava,NA,2015,3
+70,Kixejeca Gaming,CN,2018,4
+71,Zuvusuj Esports,EU,2017,2
+72,Zisiyu Yupurof,SEA,2019,3
+73,Kigaxepe Larip,SEA,2019,0
+74,LulLefe,CN,2022,5
+75,Team Kanux,CN,2012,4
+76,Xubitiyo Segafomi,KR,2018,0
+77,Yazir Esports,NA,2010,4
+78,Vevacom Lexifeje,KR,2017,2
+79,JoqiCuyot,SEA,2019,4
+80,Desapiq FC,WS,2021,2
+81,Jizerux Esports,NA,2021,3
+82,Micas Toned,CN,2022,2
+83,Xazuqewe Kufisu,CN,2012,0
+84,GidaMane,EU,2012,1
+85,WafurPom,CN,2019,0
+86,Cikeceze Givaxoq,CN,2020,4
+87,Team Yetapowo,SEA,2020,1
+88,Team Xewuxa,SEA,2018,1
+89,SadiLuwez,EU,2011,4
+90,MitSeb,SEA,2015,0
+91,Wokasa Vovuloc,CN,2013,4
+92,QosoVewov,CN,2019,3
+93,Nitaweto FC,SEA,2014,3
+94,Team Lifuwoqu,CN,2020,1
+95,Sajil FC,NA,2011,0
+96,Team Buyemu,EU,2012,5
+97,Maqocoy FC,SEA,2020,2
+98,Team Gihoc,KR,2013,1
+99,Team Worefuco,NA,2017,1
+100,KojCuq,EU,2014,4
+101,Jahacet Kawefes,KR,2020,0
+102,Team Pinofo,EU,2019,1
+103,XozePox,SEA,2020,4
+104,Waveju Esports,NA,2020,5
+105,Zevozoza United,EU,2018,0
+106,Sayineju Borimoba,EU,2011,3
+107,VeqDazid,KR,2022,2
+108,RoheGaric,WS,2017,0
+109,Hemuxeb Lomem,SEA,2011,4
+110,Team Qemidod,KR,2013,3
+111,Tiresep FC,NA,2021,5
+112,Votiqex Dilibiwe,CN,2011,2
+113,Deduy Xageqam,WS,2022,0
+114,Mijowo Burer,KR,2021,0
+115,Xohipi Gaming,CN,2017,0
+116,Fuqicar United,EU,2016,5
+117,Team Talori,NA,2022,4
+118,Cayoju Kawuzew,NA,2017,3
+119,Team Qedoli,CN,2013,5
+120,Team Gowuz,NA,2018,4
+121,Team Migosu,CN,2014,0
+122,Lizem Esports,WS,2015,4
+123,Qepepige Esports,SEA,2022,3
+124,Team Qirujaz,KR,2015,1
+125,Team Wakimeni,SEA,2016,4
+126,KacedZaqu,EU,2022,4
+127,Gololuho Esports,KR,2014,5
+128,DusNop,EU,2022,0
+129,WiyogPutar,KR,2010,1
+130,ZukuhPidon,CN,2012,5
+131,FosZemu,NA,2018,1
+132,Jajavayu FC,EU,2012,3
+133,Jetodih Mifecobo,KR,2018,3
+134,Nazamif Gaming,SEA,2021,3
+135,VavQihej,KR,2015,3
+136,Team Qavanari,KR,2012,0
+137,Team Xizuz,SEA,2022,3
+138,LilozZehi,CN,2021,3
+139,Goyajel FC,KR,2020,3
+140,Zapucaz Rigawi,SEA,2019,4
+141,Team Bedika,SEA,2022,5
+142,Jibiz Gaming,NA,2020,0
+143,Team Kojaduce,NA,2017,3
+144,Sahes FC,KR,2014,2
+145,Qopacu Esports,WS,2012,2
+146,Team Puzumap,WS,2015,5
+147,Muvodu Gaming,CN,2019,4
+148,Naruneq United,WS,2015,0
+149,Team Riyufuza,NA,2013,1
+150,Tobiv Esports,SEA,2010,2
+151,Team Kijul,EU,2011,2
+152,LiqNeg,CN,2011,1
+153,Team Bisane,SEA,2012,4
+154,Team Cukejeme,CN,2018,4
+155,FeyeHojiw,WS,2021,5
+156,Team Xekopo,WS,2014,4
+157,DuqeJuye,WS,2016,3
+158,Team Mepahi,KR,2011,0
+159,XawVore,KR,2021,2
+160,Pucugocu United,KR,2012,2
+161,Xarohah Yametu,CN,2019,3
+162,Bemuf Vibos,EU,2018,3
+163,Team Racarohi,WS,2013,1
+164,Qoxuy Yinapo,SEA,2022,3
+165,Team Wobasi,EU,2014,4
+166,Loqav Dadoqiti,NA,2014,0
+167,Paseca Gaming,EU,2021,3
+168,Team Tefecugo,SEA,2020,1
+169,Zelozej Esports,WS,2018,0
+170,QezYehe,CN,2013,3
+171,Huqucoh Tidogu,CN,2021,0
+172,Qitipiwi Esports,EU,2021,0
+173,Kotey Peqopexi,SEA,2015,5
+174,Humoto Esports,SEA,2011,0
+175,Foyat Gaming,KR,2012,0
+176,Qoxipa Esports,SEA,2017,1
+177,Badov Esports,SEA,2015,2
+178,Wehuma Esports,EU,2018,1
+179,Zijuhi Hewupu,WS,2015,5
+180,Team Jaruwi,KR,2013,3
+181,Gigidoh FC,SEA,2010,0
+182,Bibeqasu Gaming,EU,2014,2
+183,Xaruxupo United,KR,2014,5
+184,Giwevi FC,EU,2019,4
+185,Team Bedizoku,KR,2014,3
+186,Team Wohus,NA,2014,0
+187,DeciTod,WS,2013,3
+188,Team Heraku,EU,2018,2
+189,Team Wigure,WS,2012,0
+190,Zoracig Esports,EU,2017,2
+191,MopoJeti,NA,2013,1
+192,Team Voyati,NA,2022,5
+193,Zolaleh United,CN,2015,2
+194,Nigadego Lemitur,NA,2016,1
+195,Sogoyaje Hukejof,WS,2017,2
+196,GifebLafa,NA,2016,3
+197,JeseMiceq,WS,2015,2
+198,Wowenoy Havicuw,NA,2015,5
+199,Team Deqedoh,KR,2016,4
+200,XosegMukek,KR,2015,3
+201,Qofeb Yofil,WS,2019,5
+202,Yaculime Poricu,KR,2011,0
+203,Resajo Dejix,EU,2020,5
+204,Xoyaxa FC,EU,2018,3
+205,Vuzili United,EU,2019,5
+206,Team Nezolu,WS,2012,3
+207,Wunur Hoqomi,KR,2012,0
+208,Cuyex Yuyaj,SEA,2015,0
+209,PewuKim,EU,2010,4
+210,WapuXili,KR,2011,1
+211,Qanado Esports,NA,2020,0
+212,Team Wobum,SEA,2014,3
+213,Zeruveko Pivovuh,KR,2015,3
+214,Team Facom,KR,2012,5
+215,SiyowLoqon,WS,2021,4
+216,ZafazXiha,SEA,2019,3
+217,HuruLaho,WS,2016,5
+218,Fajipo Vufeze,CN,2016,0
+219,Lison Yezeqin,WS,2019,0
+220,BesoWunuz,EU,2019,1
+221,Huvuco United,CN,2021,3
+222,Team Nuvomi,SEA,2019,3
+223,MazojWimaj,EU,2018,1
+224,Gofep Zehar,EU,2011,1
+225,Team Xujajum,CN,2021,3
+226,Bemomo Bujeku,CN,2015,2
+227,VuzohPed,EU,2017,2
+228,HetiwJafa,KR,2012,4
+229,Zilupiye Esports,KR,2021,3
+230,Homew Gaming,SEA,2010,1
+231,Team Qosorap,EU,2020,0
+232,Puvorura United,SEA,2020,0
+233,Team Nimugo,SEA,2012,3
+234,Loqecuna Xifaz,CN,2021,4
+235,Coqof Fevejos,WS,2017,1
+236,Team Pusohi,NA,2020,0
+237,Team Siputas,WS,2022,5
+238,Cefof United,NA,2021,0
+239,ZuhDux,CN,2012,0
+240,Team Qiwebegu,CN,2011,3
+241,Team Degecut,CN,2014,2
+242,SijoVal,KR,2012,2
+243,Kovotujo Dobewa,EU,2017,1
+244,Team Cowamohu,NA,2015,1
+245,Qubeba Esports,EU,2012,1
+246,KofarBayu,WS,2012,0
+247,Team Gofoqute,SEA,2020,2
+248,Sehas FC,CN,2022,5
+249,Ducebu Esports,WS,2019,0
+250,Hicoyoh Cofim,EU,2016,1
+251,Gamuxum Esports,WS,2018,2
+252,Vojop Jabev,SEA,2018,1
+253,Gefexey Jawuyi,EU,2022,4
+254,Tudat Gaming,WS,2015,5
+255,Vufivese Pezusopo,EU,2017,3
+256,Ruruzome Gaming,EU,2019,4
+257,Leguvus FC,WS,2010,4
+258,Team Mijey,WS,2016,5
+259,Repiku Fodusuc,CN,2020,2
+260,Team Wukod,KR,2017,3
+261,Team Zuvel,EU,2017,1
+262,Vayana Katoqe,CN,2013,0
+263,WoyVov,WS,2020,1
+264,Duliroqu Esports,KR,2012,3
+265,DoturQod,CN,2017,4
+266,Joqimihe FC,SEA,2020,2
+267,Team Wiqeb,CN,2019,5
+268,Yonafobo Esports,WS,2012,0
+269,Higax Esports,WS,2017,1
+270,Nujamox Xoyet,CN,2018,0
+271,Team Panux,WS,2018,4
+272,Jizume United,CN,2022,1
+273,VezaZipok,NA,2017,4
+274,DugeZah,CN,2014,3
+275,Team Qejoc,WS,2016,1
+276,Team Vamizu,CN,2018,5
+277,RajihSih,EU,2013,2
+278,Yisikeyi FC,NA,2011,0
+279,Hareluxa Cejowax,CN,2010,1
+280,Tewur Lijesi,NA,2018,2
+281,XanusDuv,SEA,2019,0
+282,Team Dilagag,SEA,2010,0
+283,XiwaNuxo,EU,2016,0
+284,FaqoDoz,EU,2010,1
+285,ReviLirul,SEA,2018,5
+286,Team Denij,CN,2011,5
+287,Qojariju Gaming,EU,2015,1
+288,Wuyeziy Gaming,WS,2021,0
+289,Team Dajitosu,KR,2021,3
+290,Zadivik Peheyo,CN,2017,4
+291,Waredife FC,EU,2012,1
+292,Team Jinud,EU,2022,5
+293,Team Sokuv,EU,2019,3
+294,Gixido Bukur,NA,2010,0
+295,Hejiqoba Kuxilo,NA,2011,1
+296,VacQoho,SEA,2010,0
+297,YotoqQuxa,SEA,2018,1
+298,Nuxida United,WS,2020,3
+299,Vujoxaga Esports,CN,2011,5
+300,XizozFoso,NA,2010,1
+301,Team Zedamob,SEA,2017,1
+302,Team Rixerinu,KR,2012,2
+303,Team Karufo,EU,2022,4
+304,Team Yejuluxi,CN,2022,3
+305,NebawFum,WS,2013,5
+306,Rohigoh Vofotiw,NA,2018,1
+307,Team Hepiwobu,EU,2011,5
+308,Qorig Esports,SEA,2017,0
+309,RanugRen,CN,2014,4
+310,Team Fofamo,KR,2011,2
+311,XefNaput,CN,2020,5
+312,BuwDax,EU,2013,0
+313,Hepiwewu United,EU,2010,4
+314,Suhuta Cehire,CN,2014,2
+315,Team Xawakej,CN,2015,1
+316,Pepoquzu Lulijuji,KR,2019,3
+317,Marax Esports,SEA,2021,0
+318,NesinDuko,KR,2015,5
+319,NacosKufug,EU,2017,3
+320,Sagebuxe Yafex,CN,2010,1
+321,Tojim Bokaqi,NA,2018,4
+322,Team Yudufib,EU,2020,1
+323,Tiwon United,SEA,2014,2
+324,Zenoko United,EU,2015,3
+325,LolaWaye,EU,2013,3
+326,DixusRadeg,EU,2019,2
+327,Yelozen United,SEA,2020,3
+328,Wodifuw Gipiyoro,CN,2017,5
+329,Team Xixadib,EU,2011,2
+330,PuvuQasa,EU,2012,0
+331,WevZiji,NA,2013,1
+332,WiniNakij,CN,2021,5
+333,YubSoc,KR,2012,4
+334,Qufuh FC,EU,2017,5
+335,Team Woqenahi,EU,2015,2
+336,Kayije Xolav,EU,2017,4
+337,Demut United,CN,2018,2
+338,Yufum Hiyexe,SEA,2022,4
+339,Cejudol Sacaken,WS,2014,0
+340,DosuPubu,SEA,2012,3
+341,Team Xaqoviv,EU,2015,0
+342,Team Nasifihe,WS,2017,3
+343,Bolilawa Gaming,EU,2019,2
+344,Team Qizodez,KR,2018,4
+345,FuxeQomi,NA,2013,5
+346,Miseyogi FC,SEA,2021,2
+347,Xeholi Winoxo,KR,2015,1
+348,Kawuj Esports,WS,2011,4
+349,Yejifeg Pufojisi,NA,2015,2
+350,Wufiqazo FC,NA,2020,0
+351,Team Mebexuv,SEA,2011,0
+352,Zabigid Gaming,NA,2011,3
+353,Paxaso Puzotoju,EU,2015,1
+354,Gulaha Jemaco,EU,2015,0
+355,Cohiluga Esports,NA,2017,3
+356,Fehepuw United,SEA,2011,2
+357,Dudixu Xopomilu,WS,2015,0
+358,QelKulu,SEA,2016,1
+359,PowuwBowo,KR,2012,0
+360,Team Yipigut,EU,2010,0
+361,Woyejice Gaming,EU,2011,4
+362,Maraqece Vupuriq,SEA,2020,4
+363,Qopeni Qiyedaha,WS,2015,5
+364,NawYer,EU,2011,0
+365,Hibot Vumefuwi,WS,2016,4
+366,Pohagenu Esports,SEA,2011,0
+367,KarLew,KR,2015,2
+368,Qadibali Gebemil,CN,2011,5
+369,RubovYive,KR,2018,2
+370,Nilukeze Noran,SEA,2020,2
+371,Dufewez Wokaf,EU,2018,1
+372,XadusJobe,SEA,2019,3
+373,QefDehu,NA,2011,5
+374,Zezusoge Esports,SEA,2019,2
+375,Duzegofa Gaming,CN,2020,4
+376,WagLaga,KR,2018,4
+377,Negoc Baxelito,CN,2014,2
+378,Yogiqar Esports,SEA,2010,5
+379,Yexide United,NA,2010,0
+380,Yohakoje Esports,CN,2021,5
+381,Yifac Gaming,EU,2018,3
+382,Wapul Jusurefe,SEA,2012,3
+383,Rixebew Husetojo,NA,2020,0
+384,Tasen United,NA,2020,5
+385,FeyoFej,WS,2015,2
+386,Team Biqad,WS,2010,5
+387,Team Mapukupa,NA,2011,2
+388,SitiJoyi,CN,2014,3
+389,Sirumum Yasopuxi,CN,2013,2
+390,Xegotube Tivuki,EU,2010,5
+391,Gigim Foroc,EU,2010,4
+392,Xiqacu Gaming,SEA,2015,3
+393,Team Wukot,CN,2014,2
+394,Rovili Yekom,SEA,2011,3
+395,Yemesom Qajot,WS,2011,1
+396,Team Qipiy,WS,2019,3
+397,HemRuge,SEA,2015,4
+398,Team Jeledek,NA,2021,0
+399,RokezGocek,EU,2013,4
+400,Zowesogo United,CN,2014,5
+401,KulLav,CN,2021,1
+402,ZenuXowor,KR,2016,2
+403,Team Tecajofi,EU,2012,2
+404,HibeGic,EU,2014,1
+405,Josiza Gaming,KR,2017,5
+406,Team Tasahesi,KR,2022,5
+407,Team Zatula,KR,2013,1
+408,Lutarato Yomiberi,SEA,2016,4
+409,Bohecoqo United,WS,2011,1
+410,Daxojipe Jopoh,SEA,2015,2
+411,CulujJaz,KR,2022,0
+412,Nekek United,EU,2018,0
+413,Taqaten Esports,KR,2012,5
+414,Toneg Mizuxi,CN,2011,4
+415,Gevorar FC,SEA,2017,4
+416,Jokiruf FC,KR,2018,0
+417,Team Delegi,EU,2013,3
+418,Team Xizuvuc,WS,2014,4
+419,Team Xebawuk,EU,2016,2
+420,Locimuh Qiluhi,WS,2022,4
+421,Suseni Gaming,SEA,2011,4
+422,Wetiref Vuxak,CN,2021,2
+423,Team Moqubo,KR,2018,4
+424,Team Xuvum,KR,2021,2
+425,Team Saliteg,KR,2015,5
+426,Zakava United,CN,2022,5
+427,Yobidot Qovamuyi,NA,2019,0
+428,Luxode United,NA,2016,0
+429,KozeJayos,NA,2011,4
+430,Sukud Gaming,EU,2020,4
+431,Hujoq Puyid,NA,2011,3
+432,Silevose Bogipove,SEA,2014,2
+433,Niqez Esports,NA,2020,2
+434,Gezato Solam,WS,2012,3
+435,Team Cotuwiha,EU,2016,3
+436,Team Niwaxav,KR,2022,2
+437,Xefiyu FC,NA,2019,5
+438,Team Vegeza,WS,2019,0
+439,BageJuzob,NA,2010,3
+440,FuhZasuf,EU,2017,4
+441,Fewena Muluwayu,CN,2012,3
+442,Team Qakihuzi,CN,2013,1
+443,LobTuf,CN,2011,1
+444,Rosayu Gomuxax,NA,2018,0
+445,Team Mexubaj,CN,2016,5
+446,Team Tefizora,KR,2017,3
+447,TutaJipil,EU,2021,3
+448,Waviluv United,SEA,2011,3
+449,DameKoz,SEA,2019,2
+450,Team Muwijin,CN,2019,3
+451,Jegevu FC,KR,2015,0
+452,Cadim Esports,CN,2011,4
+453,TamefVag,EU,2021,4
+454,Bifux Qigade,NA,2010,0
+455,Luwihiy Gaming,EU,2012,4
+456,GavSeg,NA,2016,5
+457,Hevep Esports,WS,2011,1
+458,Team Wasad,NA,2017,1
+459,Team Vajidodu,WS,2013,2
+460,Team Huxobaq,KR,2018,1
+461,Biyineb Gaming,KR,2020,0
+462,Haxaqara Gaming,NA,2020,1
+463,Mefavur United,SEA,2022,0
+464,Qerefuxe Gaming,CN,2017,0
+465,RikiYec,WS,2012,0
+466,Gabogo United,WS,2015,3
+467,Team Negoru,KR,2012,2
+468,Tomes Gaming,SEA,2022,1
+469,Team Yakopan,EU,2012,4
+470,NediDor,SEA,2019,0
+471,QimeDeqi,KR,2018,3
+472,Yitac United,SEA,2012,1
+473,Team Kegemasu,CN,2017,1
+474,Team Holico,KR,2021,3
+475,Puhipizi Qedeqi,KR,2020,5
+476,Bejahiru Hoxov,NA,2018,4
+477,RoyJome,CN,2016,5
+478,Teveral Suwez,CN,2017,2
+479,Romasivi Gaming,SEA,2011,5
+480,BojupJilu,CN,2018,5
+481,Covojag Jepuco,EU,2019,1
+482,XifJokis,WS,2020,1
+483,GasLiw,CN,2013,5
+484,Zevon Gaming,EU,2015,4
+485,Team Mafuve,NA,2016,4
+486,Tubuq Cubebog,NA,2014,1
+487,Nemuray Tujebi,SEA,2020,4
+488,Yexay FC,WS,2013,2
+489,Team Qeyoloq,WS,2016,3
+490,Fadipow Sukipo,KR,2016,2
+491,Focozi Gejoheg,KR,2019,4
+492,Team Gaboq,CN,2010,2
+493,Refevay FC,EU,2015,4
+494,WawiWaz,EU,2022,4
+495,Lixeka United,NA,2015,1
+496,Xadujo Bixekuj,WS,2013,2
+497,Dimanofe Laqotur,WS,2020,4
+498,Mizuca Wegobo,KR,2012,2
+499,HanXogij,CN,2015,4
+500,HusCana,EU,2021,5
